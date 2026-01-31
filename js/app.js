@@ -20,7 +20,7 @@ function loadFromURL() {
 
   const docLi = treeContainer.querySelector(`li[data-key="${docKey}"]`);
   if (docLi) {
-    expandPathToDoc(docLi);             
+    expandPathToDoc(docLi);
     openPDF(docLi.dataset.file, docLi.dataset.path, docLi);
   }
 }
@@ -42,8 +42,26 @@ function loadDocument(key) {
   treeContainer.appendChild(treeRoot);
   updateDocPadding();
 
-  // Load document from URL if present
-  loadFromURL();
+  // ----------------- Reattach mobile doc click listeners -----------------
+  if (document.body.classList.contains('mobile')) {
+    treeContainer.querySelectorAll('li.doc').forEach(li => {
+      li.addEventListener('click', () => {
+        openPDF(li.dataset.file, li.dataset.path, li);
+        expandPathToDoc(li);
+
+        // Close sidebar after tap
+        const sidebar = document.getElementById('sidebar');
+        sidebar.classList.remove('open');
+        overlay.classList.remove('show');
+        if (menuBtn) menuBtn.textContent = '☰';
+      });
+    });
+  }
+
+  // ----------------- Load document from URL after DOM painted -----------------
+  requestAnimationFrame(() => {
+    loadFromURL();
+  });
 }
 
 // --------------------- Handle document switching ---------------------
@@ -51,71 +69,76 @@ docSelector.addEventListener('change', () => {
   loadDocument(docSelector.value);
 });
 
-// --------------------- Initialize first document ---------------------
-loadDocument('AMM');
+// --------------------- Initialize everything ---------------------
+document.addEventListener('DOMContentLoaded', () => {
+  // Load first document
+  loadDocument('AMM');
 
-// --------------------- Initialize search/reset ---------------------
-initSearch({
-  treeContainer,
-  resultsContainer,
-  resultsList,
-  viewer,
-  searchInput,
-  resetBtn
-});
+  // --------------------- Initialize search/reset ---------------------
+  setTimeout(() => {
+    initSearch({
+      treeContainer,
+      resultsContainer,
+      resultsList,
+      viewer,
+      searchInput,
+      resetBtn
+    });
+  }, 50); // tiny delay fixes first-load double-click issues
 
-// --------------------- Optional: register Service Worker for PWA ---------------------
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('/sw.js')
-      .then(() => console.log('Service Worker registered'))
-      .catch(console.error);
-  });
-}
-
-// --------------------- Mobile detection ---------------------
-if (/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
-  document.body.classList.add('mobile');
-}
-
-// --------------------- Mobile sidebar toggle and auto-open ---------------------
-if (document.body.classList.contains('mobile')) {
-  const sidebar = document.getElementById('sidebar');
-
-  function openMenu() {
-    sidebar.classList.add('open');
-    overlay.classList.add('show');
-    if (menuBtn) menuBtn.textContent = '✕';
+  // --------------------- Optional: register Service Worker for PWA ---------------------
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('/sw.js')
+        .then(() => console.log('Service Worker registered'))
+        .catch(console.error);
+    });
   }
 
-  function closeMenu() {
-    sidebar.classList.remove('open');
-    overlay.classList.remove('show');
-    if (menuBtn) menuBtn.textContent = '☰';
+  // --------------------- Mobile detection ---------------------
+  if (/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+    document.body.classList.add('mobile');
   }
 
-  function toggleMenu() {
-    if (sidebar.classList.contains('open')) {
-      closeMenu();
-    } else {
-      openMenu();
+  // --------------------- Mobile sidebar toggle & auto-open ---------------------
+  if (document.body.classList.contains('mobile')) {
+    const sidebar = document.getElementById('sidebar');
+
+    function openMenu() {
+      sidebar.classList.add('open');
+      overlay.classList.add('show');
+      if (menuBtn) menuBtn.textContent = '✕';
+    }
+
+    function closeMenu() {
+      sidebar.classList.remove('open');
+      overlay.classList.remove('show');
+      if (menuBtn) menuBtn.textContent = '☰';
+    }
+
+    function toggleMenu() {
+      if (sidebar.classList.contains('open')) {
+        closeMenu();
+      } else {
+        openMenu();
+      }
+    }
+
+    if (menuBtn) menuBtn.addEventListener('click', toggleMenu);
+    if (overlay) overlay.addEventListener('click', closeMenu);
+
+    // Close sidebar when tapping a document (also handled in loadDocument)
+    sidebar.querySelectorAll('li.doc').forEach(li => {
+      li.addEventListener('click', closeMenu);
+    });
+
+    // ----------------- AUTO-OPEN sidebar on first mobile load -----------------
+    const docKey = getUrlParam('doc');
+    if (!docKey) {
+      // Give DOM a moment to render before opening
+      requestAnimationFrame(() => {
+        openMenu();
+      });
     }
   }
-
-  // ☰ button toggles menu
-  if (menuBtn) menuBtn.addEventListener('click', toggleMenu);
-
-  // Tap outside closes menu
-  if (overlay) overlay.addEventListener('click', closeMenu);
-
-  // Selecting a document closes menu
-  sidebar.querySelectorAll('li.doc').forEach(li => {
-    li.addEventListener('click', closeMenu);
-  });
-
-  // --------------------- Auto-open sidebar on first mobile load if no doc ---------------------
-  const docKey = getUrlParam('doc');
-  if (!docKey) {
-    openMenu();
-  }
-}
+});
