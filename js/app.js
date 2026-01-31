@@ -53,72 +53,66 @@ docSelector.addEventListener('change', () => {
 
 // --------------------- Initialize first document ---------------------
 document.addEventListener('DOMContentLoaded', () => {
-loadDocument('AMM');
+  loadDocument('AMM');
 
-// --------------------- Initialize search/reset ---------------------
-initSearch({
-  treeContainer,
-  resultsContainer,
-  resultsList,
-  viewer,
-  searchInput,
-  resetBtn
-});
-
-// --------------------- Optional: register Service Worker for PWA ---------------------
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('/sw.js')
-      .then(() => console.log('Service Worker registered'))
-      .catch(console.error);
-  });
-}
-
-// --------------------- Mobile detection ---------------------
-if (/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
-  document.body.classList.add('mobile');
-}
-
-// --------------------- Mobile sidebar toggle and auto-open ---------------------
-if (document.body.classList.contains('mobile')) {
-  const sidebar = document.getElementById('sidebar');
-
-  function openMenu() {
-    sidebar.classList.add('open');
-    overlay.classList.add('show');
-    if (menuBtn) menuBtn.textContent = '✕';
-  }
-
-  function closeMenu() {
-    sidebar.classList.remove('open');
-    overlay.classList.remove('show');
-    if (menuBtn) menuBtn.textContent = '☰';
-  }
-
-  function toggleMenu() {
-    if (sidebar.classList.contains('open')) {
-      closeMenu();
-    } else {
-      openMenu();
-    }
-  }
-
-  if (menuBtn) menuBtn.addEventListener('click', toggleMenu);
-  if (overlay) overlay.addEventListener('click', closeMenu);
-
-  sidebar.querySelectorAll('li.doc').forEach(li => {
-    li.addEventListener('click', closeMenu);
+  // --------------------- Initialize search/reset ---------------------
+  initSearch({
+    treeContainer,
+    resultsContainer,
+    resultsList,
+    viewer,
+    searchInput,
+    resetBtn
   });
 
-  // ---------- AUTO-OPEN sidebar on first mobile load ----------
-  
-  const docKey = getUrlParam('doc');
-  if (!docKey) {
-    // Use requestAnimationFrame to wait for the browser to render DOM
-    requestAnimationFrame(() => {
-      openMenu();
+  // --------------------- Optional: register Service Worker for PWA ---------------------
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('/sw.js')
+        .then(() => console.log('Service Worker registered'))
+        .catch(console.error);
     });
   }
-}
 
+  // --------------------- Mobile detection ---------------------
+  const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+  if (isMobile) document.body.classList.add('mobile');
+
+  // --------------------- Mobile sidebar toggle ---------------------
+  if (isMobile) {
+    const sidebar = document.getElementById('sidebar');
+
+    function openMenu() {
+      sidebar.classList.add('open');
+      overlay.classList.add('show');
+      if (menuBtn) menuBtn.textContent = '✕';
+    }
+
+    function closeMenu() {
+      sidebar.classList.remove('open');
+      overlay.classList.remove('show');
+      if (menuBtn) menuBtn.textContent = '☰';
+    }
+
+    function toggleMenu() {
+      if (sidebar.classList.contains('open')) closeMenu();
+      else openMenu();
+    }
+
+    if (menuBtn) menuBtn.addEventListener('click', toggleMenu);
+    if (overlay) overlay.addEventListener('click', closeMenu);
+
+    sidebar.querySelectorAll('li.doc').forEach(li => li.addEventListener('click', closeMenu));
+
+    // ---------- RELIABLE AUTO-OPEN sidebar on first mobile load ----------
+    const docKey = getUrlParam('doc');
+    if (!docKey) {
+      // Wait for multiple animation frames to ensure CSS/render is ready
+      function autoOpenSidebar(frames = 3) {
+        if (frames <= 0) return openMenu();
+        requestAnimationFrame(() => autoOpenSidebar(frames - 1));
+      }
+      autoOpenSidebar();
+    }
+  }
 });
