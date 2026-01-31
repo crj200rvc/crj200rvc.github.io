@@ -52,6 +52,7 @@ docSelector.addEventListener('change', () => {
 });
 
 // --------------------- Initialize first document ---------------------
+document.addEventListener('DOMContentLoaded', () => {
 loadDocument('AMM');
 
 // --------------------- Initialize search/reset ---------------------
@@ -110,6 +111,7 @@ if (document.body.classList.contains('mobile')) {
   });
 
   // ---------- AUTO-OPEN sidebar on first mobile load ----------
+  
   const docKey = getUrlParam('doc');
   if (!docKey) {
     // Use requestAnimationFrame to wait for the browser to render DOM
@@ -118,3 +120,5 @@ if (document.body.classList.contains('mobile')) {
     });
   }
 }
+
+});
