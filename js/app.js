@@ -6,6 +6,8 @@ const viewer = document.getElementById('viewer');
 const searchInput = document.getElementById('search');
 const resetBtn = document.getElementById('reset-btn');
 const docSelector = document.getElementById('doc-selector');
+const menuBtn = document.getElementById('menu-btn');
+const overlay = document.getElementById('menu-overlay');
 
 // --------------------- URL Routing ---------------------
 function getUrlParam(name) {
@@ -16,11 +18,10 @@ function loadFromURL() {
   const docKey = getUrlParam('doc'); // e.g., ?doc=AMM05-20-00
   if (!docKey) return;
 
-  // ✅ Find document by data-key
   const docLi = treeContainer.querySelector(`li[data-key="${docKey}"]`);
   if (docLi) {
-    expandPathToDoc(docLi);             // open folders
-    openPDF(docLi.dataset.file, docLi.dataset.path, docLi); // open PDF
+    expandPathToDoc(docLi);             
+    openPDF(docLi.dataset.file, docLi.dataset.path, docLi);
   }
 }
 
@@ -36,12 +37,12 @@ function loadDocument(key) {
   resultsContainer.style.opacity = 0;
   viewer.innerHTML = `<h2>Select a document</h2>`;
 
-  // Create tree and append
+  // Create tree
   const treeRoot = createTree(xmlDoc.documentElement);
   treeContainer.appendChild(treeRoot);
   updateDocPadding();
 
-  // Check URL after tree is ready
+  // Load document from URL if present
   loadFromURL();
 }
 
@@ -72,28 +73,25 @@ if ('serviceWorker' in navigator) {
   });
 }
 
-// Add mobile class if phone/tablet
+// --------------------- Mobile detection ---------------------
 if (/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
   document.body.classList.add('mobile');
 }
 
-
-// --------------------- Mobile sidebar toggle (FIXED) ---------------------
+// --------------------- Mobile sidebar toggle and auto-open ---------------------
 if (document.body.classList.contains('mobile')) {
   const sidebar = document.getElementById('sidebar');
-  const menuBtn = document.getElementById('menu-btn');
-  const overlay = document.getElementById('menu-overlay');
 
   function openMenu() {
     sidebar.classList.add('open');
     overlay.classList.add('show');
-    menuBtn.textContent = '✕';
+    if (menuBtn) menuBtn.textContent = '✕';
   }
 
   function closeMenu() {
     sidebar.classList.remove('open');
     overlay.classList.remove('show');
-    menuBtn.textContent = '☰';
+    if (menuBtn) menuBtn.textContent = '☰';
   }
 
   function toggleMenu() {
@@ -105,13 +103,19 @@ if (document.body.classList.contains('mobile')) {
   }
 
   // ☰ button toggles menu
-  menuBtn.addEventListener('click', toggleMenu);
+  if (menuBtn) menuBtn.addEventListener('click', toggleMenu);
 
   // Tap outside closes menu
-  overlay.addEventListener('click', closeMenu);
+  if (overlay) overlay.addEventListener('click', closeMenu);
 
   // Selecting a document closes menu
   sidebar.querySelectorAll('li.doc').forEach(li => {
     li.addEventListener('click', closeMenu);
   });
+
+  // --------------------- Auto-open sidebar on first mobile load if no doc ---------------------
+  const docKey = getUrlParam('doc');
+  if (!docKey) {
+    openMenu();
+  }
 }
