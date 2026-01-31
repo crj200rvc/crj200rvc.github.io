@@ -6,7 +6,9 @@ function createTree(node, parentPath = "") {
     // normalize name to lowercase in a cross-browser-safe way
     const nodeName = (child.tagName || child.nodeName || '').toLowerCase();
 
-    const fullPath = parentPath ? parentPath + " > " + (child.getAttribute('title') || '') : (child.getAttribute('title') || '');
+    const fullPath = parentPath
+      ? parentPath + " > " + (child.getAttribute('title') || '')
+      : (child.getAttribute('title') || '');
 
     if (nodeName === 'folder') {
       li.textContent = child.getAttribute('title') || 'Folder';
@@ -25,15 +27,16 @@ function createTree(node, parentPath = "") {
     } else if (nodeName === 'doc') {
       li.textContent = child.getAttribute('title') || 'Document';
       li.dataset.file = child.getAttribute('file') || '';
-      li.dataset.path = fullPath || li.textContent;
+      li.dataset.path = fullPath || li.textContent; // display path
+      li.dataset.key = child.getAttribute('key') || ''; // ✅ NEW: unique doc key
       li.classList.add('doc');
 
       li.addEventListener('click', e => {
         e.stopPropagation();
         openPDF(child.getAttribute('file') || '', li.dataset.path, li);
       });
+
     } else {
-      // ignore unknown nodes, or handle as needed
       continue;
     }
 

@@ -44,4 +44,12 @@ function openPDF(file, title, docLi = null) {
     url.searchParams.set('doc', key); // set ?doc=...
     window.history.replaceState({}, '', url); // update browser URL without reload
   }
+
+  // ✅ Update URL using the document key
+if (docLi && docLi.dataset.key) {
+  const url = new URL(window.location);
+  url.searchParams.set('doc', docLi.dataset.key);
+  window.history.replaceState({}, '', url);
+}
+
 }
