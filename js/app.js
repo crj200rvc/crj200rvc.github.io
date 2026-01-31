@@ -20,7 +20,7 @@ function loadFromURL() {
 
   const docLi = treeContainer.querySelector(`li[data-key="${docKey}"]`);
   if (docLi) {
-    expandPathToDoc(docLi);             
+    expandPathToDoc(docLi);
     openPDF(docLi.dataset.file, docLi.dataset.path, docLi);
   }
 }
@@ -42,8 +42,26 @@ function loadDocument(key) {
   treeContainer.appendChild(treeRoot);
   updateDocPadding();
 
-  // Load document from URL if present
-  loadFromURL();
+  // ----------------- Reattach mobile doc click listeners -----------------
+  if (document.body.classList.contains('mobile')) {
+    treeContainer.querySelectorAll('li.doc').forEach(li => {
+      li.addEventListener('click', () => {
+        openPDF(li.dataset.file, li.dataset.path, li);
+        expandPathToDoc(li);
+
+        // Close sidebar after tap
+        const sidebar = document.getElementById('sidebar');
+        sidebar.classList.remove('open');
+        overlay.classList.remove('show');
+        if (menuBtn) menuBtn.textContent = '☰';
+      });
+    });
+  }
+
+  // ----------------- Load document from URL after DOM painted -----------------
+  requestAnimationFrame(() => {
+    loadFromURL();
+  });
 }
 
 // --------------------- Handle document switching ---------------------
@@ -51,19 +69,22 @@ docSelector.addEventListener('change', () => {
   loadDocument(docSelector.value);
 });
 
-// --------------------- Initialize first document ---------------------
+// --------------------- Initialize everything ---------------------
 document.addEventListener('DOMContentLoaded', () => {
+  // Load first document
   loadDocument('AMM');
 
   // --------------------- Initialize search/reset ---------------------
-  initSearch({
-    treeContainer,
-    resultsContainer,
-    resultsList,
-    viewer,
-    searchInput,
-    resetBtn
-  });
+  setTimeout(() => {
+    initSearch({
+      treeContainer,
+      resultsContainer,
+      resultsList,
+      viewer,
+      searchInput,
+      resetBtn
+    });
+  }, 50); // tiny delay fixes first-load double-click issues
 
   // --------------------- Optional: register Service Worker for PWA ---------------------
   if ('serviceWorker' in navigator) {
@@ -75,11 +96,12 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // --------------------- Mobile detection ---------------------
-  const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
-  if (isMobile) document.body.classList.add('mobile');
+  if (/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+    document.body.classList.add('mobile');
+  }
 
-  // --------------------- Mobile sidebar toggle ---------------------
-  if (isMobile) {
+  // --------------------- Mobile sidebar toggle & auto-open ---------------------
+  if (document.body.classList.contains('mobile')) {
     const sidebar = document.getElementById('sidebar');
 
     function openMenu() {
@@ -95,24 +117,28 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function toggleMenu() {
-      if (sidebar.classList.contains('open')) closeMenu();
-      else openMenu();
+      if (sidebar.classList.contains('open')) {
+        closeMenu();
+      } else {
+        openMenu();
+      }
     }
 
     if (menuBtn) menuBtn.addEventListener('click', toggleMenu);
     if (overlay) overlay.addEventListener('click', closeMenu);
 
-    sidebar.querySelectorAll('li.doc').forEach(li => li.addEventListener('click', closeMenu));
+    // Close sidebar when tapping a document (also handled in loadDocument)
+    sidebar.querySelectorAll('li.doc').forEach(li => {
+      li.addEventListener('click', closeMenu);
+    });
 
-    // ---------- RELIABLE AUTO-OPEN sidebar on first mobile load ----------
+    // ----------------- AUTO-OPEN sidebar on first mobile load -----------------
     const docKey = getUrlParam('doc');
     if (!docKey) {
-      // Wait for multiple animation frames to ensure CSS/render is ready
-      function autoOpenSidebar(frames = 3) {
-        if (frames <= 0) return openMenu();
-        requestAnimationFrame(() => autoOpenSidebar(frames - 1));
-      }
-      autoOpenSidebar();
+      // Give DOM a moment to render before opening
+      requestAnimationFrame(() => {
+        openMenu();
+      });
     }
   }
 });
