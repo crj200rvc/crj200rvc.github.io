@@ -440,3 +440,10 @@
     touch-action: manipulation;  /* prevents long-press highlight / tap delay */
 }
 
+/* Make reset and menu buttons slightly bigger on mobile */
+body.mobile #reset-btn,
+body.mobile #menu-btn {
+  padding: 8px 12px;       /* slightly larger tap area */
+  font-size: 1em;          /* slightly bigger text */
+  border-radius: 6px;      /* optional: keep rounded corners */
+}
