@@ -62,5 +62,23 @@
 <script src="js/search.js"></script>
 <script src="js/app.js"></script>
 
+<script>
+  // Add a unique query to your CSS and JS to force reload
+  const t = Date.now();
+
+  document.querySelectorAll('link[rel="stylesheet"]').forEach(link => {
+    link.href = link.href.split('?')[0] + '?v=' + t;
+  });
+
+  document.querySelectorAll('script[src]').forEach(script => {
+    const src = script.src.split('?')[0];
+    const newScript = document.createElement('script');
+    newScript.src = src + '?v=' + t;
+    document.body.appendChild(newScript);
+    script.remove();
+  });
+</script>
+
+
 </body>
 </html>
