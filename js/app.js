@@ -102,20 +102,19 @@ if (document.body.classList.contains('mobile')) {
     }
   }
 
-  // ☰ button toggles menu
   if (menuBtn) menuBtn.addEventListener('click', toggleMenu);
-
-  // Tap outside closes menu
   if (overlay) overlay.addEventListener('click', closeMenu);
 
-  // Selecting a document closes menu
   sidebar.querySelectorAll('li.doc').forEach(li => {
     li.addEventListener('click', closeMenu);
   });
 
-  // --------------------- Auto-open sidebar on first mobile load if no doc ---------------------
+  // ---------- AUTO-OPEN sidebar on first mobile load ----------
   const docKey = getUrlParam('doc');
   if (!docKey) {
-    openMenu();
+    // Use requestAnimationFrame to wait for the browser to render DOM
+    requestAnimationFrame(() => {
+      openMenu();
+    });
   }
 }
