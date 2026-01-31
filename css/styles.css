@@ -433,7 +433,10 @@
 
   /* Disable iOS long-press highlight */
   #reset-btn {
-    -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    user-select: none;
-  }
+    -webkit-touch-callout: none; /* disables callout menu */
+    -webkit-user-select: none;   /* prevents selection on iOS Safari */
+    -ms-user-select: none;       /* for older Edge */
+    user-select: none;           /* standard */
+    touch-action: manipulation;  /* prevents long-press highlight / tap delay */
+}
+
