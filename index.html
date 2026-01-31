@@ -4,81 +4,82 @@
   <meta charset="UTF-8">
   <title>CRJ200 Manual</title>
 
-  <link rel="stylesheet" href="css/styles.css">
-  
-  <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#1e1e2f">
+  <!-- Prevent caching for Safari & other browsers -->
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
 
+  <!-- Theme color for PWA -->
+  <meta name="theme-color" content="#1e1e2f">
+
+  <!-- Styles with cache-busting -->
+  <link rel="stylesheet" href="css/styles.css?v=20260130">
+
+  <!-- Manifest for PWA -->
+  <link rel="manifest" href="manifest.json?v=20260130">
 </head>
 <body>
-  
-<div id="sidebar">
-  <div id="doc-selector-container">
-    <select id="doc-selector">
-      <option value="AMM">AMM - Aircraft Maintenance Manual</option>
-      <option value="AIPC">AIPC - Illustrated Parts Catalog</option>
-      <option value="CMM">CMM</option>
-      <option value="ESPM">ESPM</option>
-      <option value="FIM">FIM</option>
-      <option value="MPM">MPM</option>
-      <option value="MTCM">MTCM</option>
-      <option value="NDT">NDT</option>
-      <option value="PPBM">PPBM</option>
-      <option value="SRM">SRM</option>
-      <option value="WM">WM</option>
-    </select>
+
+  <!-- Sidebar -->
+  <div id="sidebar">
+    <div id="doc-selector-container">
+      <select id="doc-selector">
+        <option value="AMM">AMM - Aircraft Maintenance Manual</option>
+        <option value="AIPC">AIPC - Illustrated Parts Catalog</option>
+        <option value="CMM">CMM</option>
+        <option value="ESPM">ESPM</option>
+        <option value="FIM">FIM</option>
+        <option value="MPM">MPM</option>
+        <option value="MTCM">MTCM</option>
+        <option value="NDT">NDT</option>
+        <option value="PPBM">PPBM</option>
+        <option value="SRM">SRM</option>
+        <option value="WM">WM</option>
+      </select>
+    </div>
+
+    <div id="search-container">
+      <input type="text" id="search" placeholder="Search documents...">
+      <button id="reset-btn">Reset</button>
+    </div>
+
+    <div id="tree-container"></div>
+
+    <div id="results-container">
+      <h3>Search Results</h3>
+      <ul id="results-list"></ul>
+    </div>
   </div>
 
-  <div id="search-container">
-    <input type="text" id="search" placeholder="Search documents...">
-    <button id="reset-btn">Reset</button>
+  <!-- Top bar for mobile -->
+  <div id="top-bar">
+    <button id="menu-btn">☰</button>
+    <span>CRJ200 Manual</span>
   </div>
 
-  <div id="tree-container"></div>
+  <!-- Overlay behind menu -->
+  <div id="menu-overlay"></div>
 
-  <div id="results-container">
-    <h3>Search Results</h3>
-    <ul id="results-list"></ul>
+  <!-- Viewer -->
+  <div id="viewer">
+    <h2>Select a document</h2>
   </div>
-</div>
 
-<!-- Top bar for mobile -->
-<div id="top-bar">
-  <button id="menu-btn">☰</button>
-  <span>CRJ200 Manual</span>
-</div>
+  <!-- Scripts with cache-busting -->
+  <script src="js/data.js?v=20260130"></script>
+  <script src="js/tree.js?v=20260130"></script>
+  <script src="js/viewer.js?v=20260130"></script>
+  <script src="js/search.js?v=20260130"></script>
+  <script src="js/app.js?v=20260130"></script>
 
-<!-- Overlay behind menu -->
-<div id="menu-overlay"></div>
-
-
-<div id="viewer">
-  <h2>Select a document</h2>
-</div>
-
-<script src="js/data.js"></script>
-<script src="js/tree.js"></script>
-<script src="js/viewer.js"></script>
-<script src="js/search.js"></script>
-<script src="js/app.js"></script>
-
-<script>
-  // Add a unique query to your CSS and JS to force reload
-  const t = Date.now();
-
-  document.querySelectorAll('link[rel="stylesheet"]').forEach(link => {
-    link.href = link.href.split('?')[0] + '?v=' + t;
-  });
-
-  document.querySelectorAll('script[src]').forEach(script => {
-    const src = script.src.split('?')[0];
-    const newScript = document.createElement('script');
-    newScript.src = src + '?v=' + t;
-    document.body.appendChild(newScript);
-    script.remove();
-  });
-</script>
-
+  <!-- Temporary: Clear old service workers to avoid cached files -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(registrations => {
+        for (let reg of registrations) reg.unregister();
+      });
+    }
+  </script>
 
 </body>
 </html>
