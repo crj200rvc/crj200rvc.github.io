@@ -15195,858 +15195,858 @@ const documents = {
   FIM: `<?xml version="1.0" encoding="UTF-8"?>
 <toc key="FIM" series="CRJ200" title="Fault Isolation Manual" rev="44" date="20120810">
 <folder key="FIM00-00" title="Front Matter">
-<doc key="FIM00-01" title="Transmittal Letter" file="TRANSLTR.pdf"/>
-<doc key="FIM00-02" title="Manual Change Request Form" file="USERCOMM.pdf"/>
-<doc key="FIM00-03" title="Record of Revisions" file="RECOFREV.pdf"/>
-<doc key="FIM00-04" title="Record of Temporary Revisions" file="ROTR.pdf"/>
+<doc key="FIM00-01" title="Transmittal Letter" file="https://drive.google.com/file/d/1u0KPH3oJ14KgY2BGX_24O-yoVlgKGYYC/preview" />
+<doc key="FIM00-02" title="Manual Change Request Form" file="https://drive.google.com/file/d/1JRUM2zzfmforlRuuXz_CiwgZpk2l5mh9/preview" />
+<doc key="FIM00-03" title="Record of Revisions" file="https://drive.google.com/file/d/18HkYLSqsMuQfz3fb7YHMrTWEHTXylFFN/preview" />
+<doc key="FIM00-04" title="Record of Temporary Revisions" file="https://drive.google.com/file/d/1WmWZS4vux9AYMiQ73B23CEzSOcyuohtW/preview" />
 </folder>
 <folder key="FIM00-05" title="Introduction">
-<doc key="FIM00-06" title="List of Effective Pages" file="ILEP.pdf"/>
-<doc key="FIM00-07" title="Table of Contents" file="ITOC.pdf"/>
-<doc key="FIM00-08" title="Introduction" file="INTRO.pdf"/>
-<doc key="FIM00-09" title="EICAS MESSAGES" file="EICAS.pdf"/>
-<doc key="FIM00-10" title="FAULT MESSAGE RESET PROCEDURES" file="FMRP.pdf"/>
+<doc key="FIM00-06" title="List of Effective Pages" file="https://drive.google.com/file/d/1xw1pXbFdE-OHAFuId6yloDq4CD1ACzpa/preview" />
+<doc key="FIM00-07" title="Table of Contents" file="https://drive.google.com/file/d/1dbMyhJTpPXRm1HaOB9Gj-yc_VJNgaxyY/preview" />
+<doc key="FIM00-08" title="Introduction" file="https://drive.google.com/file/d/1Db8Rfi3o8mn7ORWYjsFBoP51NeeTIMpO/preview" />
+<doc key="FIM00-09" title="EICAS MESSAGES" file="https://drive.google.com/file/d/1NF-lnVCpUe29npJYD7biZzbhPB5OpTnc/preview" />
+<doc key="FIM00-10" title="FAULT MESSAGE RESET PROCEDURES" file="https://drive.google.com/file/d/1aHJ9-6Ca9O_rLOAym8A_LX-KAmOYDpIc/preview" />
 </folder>
 <folder key="FIM21" title="CH 21 - AIR CONDITIONING">
 <folder key="FIM21-FM" title="Front Matter">
-<doc key="CLEP-21" title="List of Effective Pages" file="CLEP-21.pdf"/>
-<doc key="CTOC-21" title="Table of Contents" file="CTOC-21.pdf"/>
+<doc key="CLEP-21" title="List of Effective Pages" file="https://drive.google.com/file/d/1_ntTSZz1VwJAQUhu6jC31OxEjnj0byAB/preview" />
+<doc key="CTOC-21" title="Table of Contents" file="https://drive.google.com/file/d/1acIKBhHcoQFWo3lwx5eBzsglSZ8025Q7/preview" />
 </folder>
 <folder key="FIM21-99-01" title="21-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM21-99-01-01" title="TASK 21-99-01-01 - AIR CONDITIONING - EICAS MESSAGES" file="FIM21-99-01-01.pdf"/>
+<doc key="FIM21-99-01-01" title="TASK 21-99-01-01 - AIR CONDITIONING - EICAS MESSAGES" file="https://drive.google.com/file/d/1aC9-2mL8XnHpg5q0hxGsm7phrVoiZUli/preview" />
 </folder>
 <folder key="FIM21-99-02" title="21-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM21-99-02-01" title="TASK 21-99-02-01 - AIR CONDITIONING - FAULT CODE DIAGRAMS" file="FIM21-99-02-01.pdf"/>
+<doc key="FIM21-99-02-01" title="TASK 21-99-02-01 - AIR CONDITIONING - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/1ziHu9AuAAbAcJDZ6qWl6Gkveq7w-4Wz3/preview" />
 </folder>
 <folder key="FIM21-99-03" title="21-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM21-99-03-01" title="TASK 21-99-03-01 - AIR CONDITIONING - FAULT CODE INDEX" file="FIM21-99-03-01.pdf"/>
+<doc key="FIM21-99-03-01" title="TASK 21-99-03-01 - AIR CONDITIONING - FAULT CODE INDEX" file="https://drive.google.com/file/d/1e6WMe1rc4zVFCuk_64b823uGp3Njh-so/preview" />
 </folder>
 <folder key="FIM21-00-00" title="21-00-00 - AIR CONDITIONNING - AIR CONDITIONING">
-<doc key="FIM21-00-00-01" title="TASK 21-00-00-01 - AIR CONDITIONING - FAULT ISOLATION" file="FIM21-00-00-01.pdf"/>
+<doc key="FIM21-00-00-01" title="TASK 21-00-00-01 - AIR CONDITIONING - FAULT ISOLATION" file="https://drive.google.com/file/d/1BThURjEzBUm9x2iHQKNHjOJZ2_bhw0d6/preview" />
 </folder>
 <folder key="FIM21-20-00" title="21-20-00 - DISTRIBUTION">
-<doc key="FIM21-20-00-01" title="TASK 21-20-00-01 - DISTRIBUTION - FAULT ISOLATION" file="FIM21-20-00-01.pdf"/>
+<doc key="FIM21-20-00-01" title="TASK 21-20-00-01 - DISTRIBUTION - FAULT ISOLATION" file="https://drive.google.com/file/d/1qQYPYRuEzAxVbd2KYyD0DeDFM8hq3mpU/preview" />
 </folder>
 <folder key="FIM21-30-00" title="21-30-00 - PRESSURIZATION CONTROL SYSTEM">
-<doc key="FIM21-30-00-01" title="TASK 21-30-00-01 - PRESSURIZATION CONTROL SYSTEM - FAULT ISOLATION" file="FIM21-30-00-01.pdf"/>
+<doc key="FIM21-30-00-01" title="TASK 21-30-00-01 - PRESSURIZATION CONTROL SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1K7Qhil4GyZEgNULlRr5zkW_2JgErdpDI/preview" />
 </folder>
 <folder key="FIM21-50-00" title="21-50-00 - COOLING">
-<doc key="FIM21-50-00-01" title="TASK 21-50-00-01 - COOLING - FAULT ISOLATION" file="FIM21-50-00-01.pdf"/>
+<doc key="FIM21-50-00-01" title="TASK 21-50-00-01 - COOLING - FAULT ISOLATION" file="https://drive.google.com/file/d/11_7I7pcl9EivZyGjg59OGmvafRQIvsZ2/preview" />
 </folder>
 <folder key="FIM21-60-00" title="21-60-00 - TEMPERATURE CONTROL">
-<doc key="FIM21-60-00-01" title="TASK 21-60-00-01 - TEMPERATURE CONTROL - FAULT ISOLATION" file="FIM21-60-00-01.pdf"/>
+<doc key="FIM21-60-00-01" title="TASK 21-60-00-01 - TEMPERATURE CONTROL - FAULT ISOLATION" file="https://drive.google.com/file/d/1_1i2uGIa3Ty06-coMAKtncjG4sDEA2FS/preview" />
 </folder>
 </folder>
 <folder key="FIM22" title="CH 22 - AUTO FLIGHT">
 <folder key="FIM22-FM" title="Front Matter">
-<doc key="CLEP-22" title="List of Effective Pages" file="CLEP-22.pdf"/>
-<doc key="CTOC-22" title="Table of Contents" file="CTOC-22.pdf"/>
+<doc key="CLEP-22" title="List of Effective Pages" file="https://drive.google.com/file/d/1yPFNtNUSrEZBEOHLyxH5YT_0dI94tF42/preview" />
+<doc key="CTOC-22" title="Table of Contents" file="https://drive.google.com/file/d/1h1l0Hva0aADDRk7dcd_KJLAxqODEk__Y/preview" />
 </folder>
 <folder key="FIM22-99-01" title="22-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM22-99-01-01" title="TASK 22-99-01-01 - AUTOFLIGHT SYSTEM -FAULT ISOLATION" file="FIM22-99-01-01.pdf"/>
+<doc key="FIM22-99-01-01" title="TASK 22-99-01-01 - AUTOFLIGHT SYSTEM -FAULT ISOLATION" file="https://drive.google.com/file/d/1z8vCryGBVNwoCg_T5OmM7STHkNSUorxI/preview" />
 </folder>
 <folder key="FIM22-00-00" title="22-00-00 - AUTO FLIGHT">
-<doc key="FIM22-00-00-01" title="TASK 22-00-00-01 - AUTO FLIGHT - COMPONENT ACCESS/LOCATION" file="FIM22-00-00-01.pdf"/>
+<doc key="FIM22-00-00-01" title="TASK 22-00-00-01 - AUTO FLIGHT - COMPONENT ACCESS/LOCATION" file="https://drive.google.com/file/d/1ivuf-S_PhtC6-cRvR3BzlrMAeMtqoBww/preview" />
 </folder>
 <folder key="FIM22-11-00" title="22-11-00 - AUTOMATIC FLIGHT CONTROL SYSTEM (AFCS) - AUTOMATIC FLIGHT CONTROL SYSTEM (AFCS) - FAULT ISOLATION">
-<doc key="FIM22-11-00-01" title="TASK 22-11-00-01 - AUTOMATIC FLIGHT CONTROL SYSTEM (AFCS) - FAULT ISOLATION" file="FIM22-11-00-01.pdf"/>
+<doc key="FIM22-11-00-01" title="TASK 22-11-00-01 - AUTOMATIC FLIGHT CONTROL SYSTEM (AFCS) - FAULT ISOLATION" file="https://drive.google.com/file/d/1GYRWD2uCuf8D9SvikZNUejGYO17I6BKJ/preview" />
 </folder>
 <folder key="FIM22-12-00" title="22-12-00 - INTEGRATED AVIONICS PROCESSOR SYSTEM (IAPS) - INTEGRATED AVIONICS PROCESSOR SYSTEM - FAULT ISOLATION">
-<doc key="FIM22-12-00-01" title="TASK 22-12-00-01 - INTEGRATED AVIONICS PROCESSOR SYSTEM (IAPS) - FAULT ISOLATION" file="FIM22-12-00-01.pdf"/>
+<doc key="FIM22-12-00-01" title="TASK 22-12-00-01 - INTEGRATED AVIONICS PROCESSOR SYSTEM (IAPS) - FAULT ISOLATION" file="https://drive.google.com/file/d/1Ka9Wrnjr7RqlTjacI96_22bGUPbaqpOh/preview" />
 </folder>
 <folder key="FIM22-22-00" title="22-22-00 - YAW DAMPING - YAW DAMPING - FAULT ISOLATION">
-<doc key="FIM22-22-00-01" title="TASK 22-22-00-01 - YAW DAMPING - FAULT ISOLATION" file="FIM22-22-00-01.pdf"/>
+<doc key="FIM22-22-00-01" title="TASK 22-22-00-01 - YAW DAMPING - FAULT ISOLATION" file="https://drive.google.com/file/d/1cs0wy-LKzHLmnJjNBIgj2z_1KKLaiAQM/preview" />
 </folder>
 </folder>
 <folder key="FIM23" title="CH 23 - COMMUNICATIONS">
 <folder key="FIM23-FM" title="Front Matter">
-<doc key="CLEP-23" title="List of Effective Pages" file="CLEP-23.pdf"/>
-<doc key="CTOC-23" title="Table of Contents" file="CTOC-23.pdf"/>
+<doc key="CLEP-23" title="List of Effective Pages" file="https://drive.google.com/file/d/1GAhsevcWg-wXolxWWZUoqFoXE8jFowJE/preview" />
+<doc key="CTOC-23" title="Table of Contents" file="https://drive.google.com/file/d/1SarTMhObnTBH-93XgEuU1bTTEFgx0WzS/preview" />
 </folder>
 <folder key="FIM23-99-01" title="23-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM23-99-01-01" title="TASK 23-99-01-01 - COMMUNICATIONS SYSTEMS - FAULT ISOLATION" file="FIM23-99-01-01.pdf"/>
+<doc key="FIM23-99-01-01" title="TASK 23-99-01-01 - COMMUNICATIONS SYSTEMS - FAULT ISOLATION" file="https://drive.google.com/file/d/1tq-NAPGi9mu1KypGUbHNgrlqADnmu-UC/preview" />
 </folder>
 <folder key="FIM23-10-00" title="23-10-00 - SPEECH COMMUNICATION">
-<doc key="FIM23-10-00-01" title="TASK 23-10-00-01 - SPEECH COMMUNICATION - FAULT ISOLATION" file="FIM23-10-00-01.pdf"/>
+<doc key="FIM23-10-00-01" title="TASK 23-10-00-01 - SPEECH COMMUNICATION - FAULT ISOLATION" file="https://drive.google.com/file/d/1P2FQt3B6gjh7v9GE8QXT9snvFd71nnLA/preview" />
 </folder>
 <folder key="FIM23-11-00" title="23-11-00 - VHF COMMUNICATION SYSTEMS - VHF COMMUNICATION SYSTEMS -FAULT ISOLATION">
-<doc key="FIM23-11-00-01" title="TASK 23-11-00-01 - VHF COMMUNICATIONS SYSTEM - FAULT ISOLATION" file="FIM23-11-00-01.pdf"/>
+<doc key="FIM23-11-00-01" title="TASK 23-11-00-01 - VHF COMMUNICATIONS SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1JevMWwC7_dPBUzVBhBBT0rAES39ghgpU/preview" />
 </folder>
 <folder key="FIM23-12-00" title="23-12-00 - HF COMMUNICATION SYSTEM - HF COMMUNICATION SYSTEM - FAULT ISOLATION">
-<doc key="FIM23-12-00-01" title="TASK 23-12-00-01 - HF COMMUNICATION SYSTEM - FAULT ISOLATION" file="FIM23-12-00-01.pdf"/>
+<doc key="FIM23-12-00-01" title="TASK 23-12-00-01 - HF COMMUNICATION SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1XKJCADp8Jjfi6hG1n1SzIBv9FZVl1f7Q/preview" />
 </folder>
 <folder key="FIM23-20-00" title="23-20-00 - DATA TRANSMISSION AND AUTOMATIC CALLING - SELCAL SYSTEM - FAULT ISOLATION">
-<doc key="FIM23-20-00-01" title="TASK 23-20-00-01 - DATA TRANSMISSION AND AUTOMATIC CALLING - FAULT ISOLATION" file="FIM23-20-00-01.pdf"/>
+<doc key="FIM23-20-00-01" title="TASK 23-20-00-01 - DATA TRANSMISSION AND AUTOMATIC CALLING - FAULT ISOLATION" file="https://drive.google.com/file/d/11ruTlBC9U5PHn8Hh9dvrTXJfU4ExxN5m/preview" />
 </folder>
 <folder key="FIM23-21-00" title="23-21-00 - SELCAL SYSTEM - SELCAL SYSTEM - FAULT ISOLATION">
-<doc key="FIM23-21-00-01" title="TASK 23-21-00-01 - SELCAL SYSTEM - FAULT ISOLATION" file="FIM23-21-00-01.pdf"/>
+<doc key="FIM23-21-00-01" title="TASK 23-21-00-01 - SELCAL SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1kDFD8FLzaRC7SzX4XaYIrEuLj_eZLEUE/preview" />
 </folder>
 <folder key="FIM23-25-00" title="23-25-00 - SECTION - ACARS - FAULT ISOLATION">
-<doc key="FIM23-25-00-01" title="TASK 23-25-00-01 - AIRCRAFT COMMUNICATION ADDRESSING AND REPORTING SYSTEM - FAULT ISOLATION" file="FIM23-25-00-01.pdf"/>
+<doc key="FIM23-25-00-01" title="TASK 23-25-00-01 - AIRCRAFT COMMUNICATION ADDRESSING AND REPORTING SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1Xh7fDX9-er68gIguRYNVLWh9wgncUXyM/preview" />
 </folder>
 <folder key="FIM23-30-00" title="23-30-00 - PASSENGER ADDRESS AND ENTERTAINMENT">
-<doc key="FIM23-30-00-01" title="TASK 23-30-00-01 - PASSENGER ADDRESS AND ENTERTAINMENT - FAULT ISOLATION" file="FIM23-30-00-01.pdf"/>
+<doc key="FIM23-30-00-01" title="TASK 23-30-00-01 - PASSENGER ADDRESS AND ENTERTAINMENT - FAULT ISOLATION" file="https://drive.google.com/file/d/1dFry0alMo8v959p1kxVVeC6-ozhkUyFY/preview" />
 </folder>
 <folder key="FIM23-31-00" title="23-31-00 - PASSENGER ADDRESS (PA) SYSTEM - PASSENGER ADDRESS (PA) SYSTEM - FAULT ISOLATION">
-<doc key="FIM23-31-00-01" title="TASK 23-31-00-01 - PASSENGER ADDRESS (PA) SYSTEM - FAULT ISOLATION" file="FIM23-31-00-01.pdf"/>
+<doc key="FIM23-31-00-01" title="TASK 23-31-00-01 - PASSENGER ADDRESS (PA) SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1sNWPTxKjajqT57hAieFcJp4iA9O9ib9D/preview" />
 </folder>
 <folder key="FIM23-32-00" title="23-32-00 - PASSENGER ENTERTAINMENT SYSTEM - PASSENGER ENTERTAINMENT SYSTEM - FAULT ISOLATION">
-<doc key="FIM23-32-00-01" title="TASK 23-32-00-01 - PASSENGER ENTERTAINMENT SYSTEM - FAULT ISOLATION" file="FIM23-32-00-01.pdf"/>
+<doc key="FIM23-32-00-01" title="TASK 23-32-00-01 - PASSENGER ENTERTAINMENT SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1MldyG0lPrf_2VxpRIxGBXgsGKlQKxzUX/preview" />
 </folder>
 <folder key="FIM23-33-00" title="23-33-00 - DIGITAL PASSENGER ANNOUNCEMENT SYSTEM - DIGITAL PASSENGER ANNOUNCEMENT SYSTEM - FAULT ISOLATION">
-<doc key="FIM23-33-00-01" title="TASK 23-33-00-01 - DIGITAL PASSENGER ANNOUNCEMENT SYSTEM - FAULT ISOLATION" file="FIM23-33-00-01.pdf"/>
+<doc key="FIM23-33-00-01" title="TASK 23-33-00-01 - DIGITAL PASSENGER ANNOUNCEMENT SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1m0eFr3iXCMn74AjBS7yRDuHF9FC4mJzt/preview" />
 </folder>
 <folder key="FIM23-34-00" title="23-34-00 - SYSTEM, PASSENGER BRIEFING (PBS 600) - SYSTEM, PASSENGER BRIEFING (PBS 600) - FAULT ISOLATION">
-<doc key="FIM23-34-00-01" title="TASK 23-34-00-01 - SYSTEM, PASSENGER BRIEFING (PBS600) - FAULT ISOLATION" file="FIM23-34-00-01.pdf"/>
+<doc key="FIM23-34-00-01" title="TASK 23-34-00-01 - SYSTEM, PASSENGER BRIEFING (PBS600) - FAULT ISOLATION" file="https://drive.google.com/file/d/1932DHSGS5FlqltDo9C4E4MgeZtEdYlZN/preview" />
 </folder>
 <folder key="FIM23-50-00" title="23-50-00 - AUDIO INTEGRATING">
-<doc key="FIM23-50-00-01" title="TASK 23-50-00-01 - AUDIO INTEGRATING - FAULT ISOLATION" file="FIM23-50-00-01.pdf"/>
+<doc key="FIM23-50-00-01" title="TASK 23-50-00-01 - AUDIO INTEGRATING - FAULT ISOLATION" file="https://drive.google.com/file/d/11Fv1eEwzXOpbBioM34DVzJjdR2GwW051/preview" />
 </folder>
 <folder key="FIM23-51-00" title="23-51-00 - AUDIO INTEGRATING SYSTEM - AUDIO INTEGRATING SYSTEM - FAULT ISOLATION">
-<doc key="FIM23-51-00-01" title="TASK 23-51-00-01 - AUDIO INTEGRATING SYSTEM - FAULT ISOLATION" file="FIM23-51-00-01.pdf"/>
+<doc key="FIM23-51-00-01" title="TASK 23-51-00-01 - AUDIO INTEGRATING SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1U0HO3E7Y7yfmulBZpPzevKih2cW9iKHJ/preview" />
 </folder>
 <folder key="FIM23-70-00" title="23-70-00 - AUDIO AND VIDEO MONITORING">
-<doc key="FIM23-70-00-01" title="TASK 23-70-00-01 - AUDIO AND VIDEO MONITORING - FAULT ISOLATION" file="FIM23-70-00-01.pdf"/>
+<doc key="FIM23-70-00-01" title="TASK 23-70-00-01 - AUDIO AND VIDEO MONITORING - FAULT ISOLATION" file="https://drive.google.com/file/d/1OLodgDNGs6a7xVU9hSgeSPHoLMtCxWO5/preview" />
 </folder>
 <folder key="FIM23-71-00" title="23-71-00 - VOICE RECORDER SYSTEM - VOICE RECORDER SYSTEM - FAULT ISOLATION">
-<doc key="FIM23-71-00-01" title="TASK 23-71-00-01 - VOICE RECORDER SYSTEM - FAULT ISOLATION" file="FIM23-71-00-01.pdf"/>
+<doc key="FIM23-71-00-01" title="TASK 23-71-00-01 - VOICE RECORDER SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1CfJSok0odJyMOLpx6cnGgVvyX779BCuQ/preview" />
 </folder>
 <folder key="FIM23-80-00" title="23-80-00 - INTEGRATED AUTOMATIC TUNING">
-<doc key="FIM23-80-00-01" title="TASK 23-80-00-01 - INTEGRATED AUTOMATIC TUNING - FAULT ISOLATION" file="FIM23-80-00-01.pdf"/>
+<doc key="FIM23-80-00-01" title="TASK 23-80-00-01 - INTEGRATED AUTOMATIC TUNING - FAULT ISOLATION" file="https://drive.google.com/file/d/1YYcnDNtXoeg39ZLAd4AL53FKGGcj2dUJ/preview" />
 </folder>
 <folder key="FIM23-81-00" title="23-81-00 - RADIO TUNING UNIT - RADIO TUNING UNIT - FAULT ISOLATION">
-<doc key="FIM23-81-00-01" title="TASK 23-81-00-01 - RADIO TUNING UNIT - FAULT ISOLATION" file="FIM23-81-00-01.pdf"/>
+<doc key="FIM23-81-00-01" title="TASK 23-81-00-01 - RADIO TUNING UNIT - FAULT ISOLATION" file="https://drive.google.com/file/d/16kOF3B49yu_H7TiSDW9HOEgxcRdTfy43/preview" />
 </folder>
 <folder key="FIM23-82-00" title="23-82-00 - STANDBY TUNE CONTROL UNIT - STANDBY TUNE CONTROL UNIT - FAULT ISOLATION">
-<doc key="FIM23-82-00-01" title="TASK 23-82-00-01 - STANDBY TUNE CONTROL UNIT - FAULT ISOLATION" file="FIM23-82-00-01.pdf"/>
+<doc key="FIM23-82-00-01" title="TASK 23-82-00-01 - STANDBY TUNE CONTROL UNIT - FAULT ISOLATION" file="https://drive.google.com/file/d/1tsplAA-GcZ_3VCaOUy1th6jij4VDmOP9/preview" />
 </folder>
 </folder>
 <folder key="FIM24" title="CH 24 - ELECTRICAL POWER">
 <folder key="FIM24-FM" title="Front Matter">
-<doc key="CLEP-24" title="List of Effective Pages" file="CLEP-24.pdf"/>
-<doc key="CTOC-24" title="Table of Contents" file="CTOC-24.pdf"/>
+<doc key="CLEP-24" title="List of Effective Pages" file="https://drive.google.com/file/d/1Ebct1REYLqL00XEyWPkGJ528B6kiR1X_/preview" />
+<doc key="CTOC-24" title="Table of Contents" file="https://drive.google.com/file/d/1Ki5Il4zmDuzPykc2eBH55zjKHYwc7Qpj/preview" />
 </folder>
 <folder key="FIM24-99-01" title="24-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM24-99-01-01" title="TASK 24-99-01-01 - ELECTRICAL POWER - EICAS MESSAGES" file="FIM24-99-01-01.pdf"/>
+<doc key="FIM24-99-01-01" title="TASK 24-99-01-01 - ELECTRICAL POWER - EICAS MESSAGES" file="https://drive.google.com/file/d/1ol-2tDOwJ7enWOCuuNnYtl4sDrfX38DK/preview" />
 </folder>
 <folder key="FIM24-99-02" title="24-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM24-99-02-01" title="TASK 24-99-02-01 - ELECTRICAL POWER - FAULT CODE DIAGRAMS" file="FIM24-99-02-01.pdf"/>
+<doc key="FIM24-99-02-01" title="TASK 24-99-02-01 - ELECTRICAL POWER - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/1W-9TDRQM6exfpiNdXzoxeD2l_pQw9MrV/preview" />
 </folder>
 <folder key="FIM24-99-03" title="24-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM24-99-03-01" title="TASK 24-99-03-01 - ELECTRICAL POWER - FAULT CODE INDEX" file="FIM24-99-03-01.pdf"/>
+<doc key="FIM24-99-03-01" title="TASK 24-99-03-01 - ELECTRICAL POWER - FAULT CODE INDEX" file="https://drive.google.com/file/d/1PicY_Rd8FpBmVs08WsaQHH3sGk3xCV7U/preview" />
 </folder>
 <folder key="FIM24-00-00" title="24-00-00 - ELECTRICAL POWER SYSTEM">
-<doc key="FIM24-00-00-01" title="TASK 24-00-00-01 - ELECTRICAL POWER SYSTEM - FAULT ISOLATION" file="FIM24-00-00-01.pdf"/>
+<doc key="FIM24-00-00-01" title="TASK 24-00-00-01 - ELECTRICAL POWER SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1SnyTCdyTCalf2xp2F0PRbQICGi29oIHw/preview" />
 </folder>
 <folder key="FIM24-10-00" title="24-10-00 - GENERATOR DRIVE">
-<doc key="FIM24-10-00-01" title="TASK 24-10-00-01 - GENERATOR DRIVE - FAULT ISOLATION" file="FIM24-10-00-01.pdf"/>
+<doc key="FIM24-10-00-01" title="TASK 24-10-00-01 - GENERATOR DRIVE - FAULT ISOLATION" file="https://drive.google.com/file/d/1A_IVVzpznkYGXOcfYfJ3x0JDiHBkTSYU/preview" />
 </folder>
 <folder key="FIM24-20-00" title="24-20-00 - AC GENERATION">
-<doc key="FIM24-20-00-01" title="TASK 24-20-00-01 - AC GENERATION - FAULT ISOLATION" file="FIM24-20-00-01.pdf"/>
+<doc key="FIM24-20-00-01" title="TASK 24-20-00-01 - AC GENERATION - FAULT ISOLATION" file="https://drive.google.com/file/d/1rFE-X4OKX9HZrZTEkdaxKKu2auJjYVn1/preview" />
 </folder>
 <folder key="FIM24-23-00" title="24-23-00 - EMERGENCY AC POWER GENERATION SYSTEM - DRY AIR DRIVEN GENERATOR">
-<doc key="FIM24-23-00-01" title="TASK 24-23-00-01 - EMERGENCY AC POWER GENERATION SYSTEM - FAULT ISOLATION" file="FIM24-23-00-01.pdf"/>
+<doc key="FIM24-23-00-01" title="TASK 24-23-00-01 - EMERGENCY AC POWER GENERATION SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/191_lYFMsfZGMMf9W0w9JdVwzHi3JpQzl/preview" />
 </folder>
 <folder key="FIM24-30-00" title="24-30-00 - DC GENERATION">
-<doc key="FIM24-30-00-01" title="TASK 24-30-00-01 - DC GENERATION - FAULT ISOLATION" file="FIM24-30-00-01.pdf"/>
+<doc key="FIM24-30-00-01" title="TASK 24-30-00-01 - DC GENERATION - FAULT ISOLATION" file="https://drive.google.com/file/d/1aIgyBTZpsUzn3U6aKneeOixzzoxmf4x6/preview" />
 </folder>
 </folder>
 <folder key="FIM26" title="CH 26 - FIRE PROTECTION">
 <folder key="FIM26-FM" title="Front Matter">
-<doc key="CLEP-26" title="List of Effective Pages" file="CLEP-26.pdf"/>
-<doc key="CTOC-26" title="Table of Contents" file="CTOC-26.pdf"/>
+<doc key="CLEP-26" title="List of Effective Pages" file="https://drive.google.com/file/d/1AJyko4cFbcY3cpvNr8egSMx-TTOMHgi3/preview" />
+<doc key="CTOC-26" title="Table of Contents" file="https://drive.google.com/file/d/1bfGQBfLslNMLkHYjR95Z8mGRfQAqiGgF/preview" />
 </folder>
 <folder key="FIM26-99-01" title="26-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM26-99-01-01" title="TASK 26-99-01-01 - FIRE PROTECTION - EICAS MESSAGES" file="FIM26-99-01-01.pdf"/>
+<doc key="FIM26-99-01-01" title="TASK 26-99-01-01 - FIRE PROTECTION - EICAS MESSAGES" file="https://drive.google.com/file/d/1OnaIX3gDRubcxc6m4FerTxEUoPiVRAfv/preview" />
 </folder>
 <folder key="FIM26-99-02" title="26-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM26-99-02-01" title="TASK 26-99-02-01 - FIRE PROTECTION - FAULT CODE DIAGRAMS" file="FIM26-99-02-01.pdf"/>
+<doc key="FIM26-99-02-01" title="TASK 26-99-02-01 - FIRE PROTECTION - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/10-Igvt184zwrWtGw4-t_S5VNXlI__Q8Z/preview" />
 </folder>
 <folder key="FIM26-99-03" title="26-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM26-99-03-01" title="TASK 26-99-03-01 - FIRE PROTECTION - FAULT CODE INDEX" file="FIM26-99-03-01.pdf"/>
+<doc key="FIM26-99-03-01" title="TASK 26-99-03-01 - FIRE PROTECTION - FAULT CODE INDEX" file="https://drive.google.com/file/d/15_VqxVKAX_DCKcdZpApYWIbPGOEnxt5t/preview" />
 </folder>
 <folder key="FIM26-00-00" title="26-00-00 - FIRE PROTECTION">
-<doc key="FIM26-00-00-01" title="TASK 26-00-00-01 - FIRE PROTECTION - FAULT ISOLATION" file="FIM26-00-00-01.pdf"/>
+<doc key="FIM26-00-00-01" title="TASK 26-00-00-01 - FIRE PROTECTION - FAULT ISOLATION" file="https://drive.google.com/file/d/1VzpbGQymB6dWz18_SBuToUTIKA4qDu6M/preview" />
 </folder>
 <folder key="FIM26-10-00" title="26-10-00 - DETECTION SYSTEM">
-<doc key="FIM26-10-00-01" title="TASK 26-10-00-01 - DETECTION SYSTEM - FAULT ISOLATION" file="FIM26-10-00-01.pdf"/>
+<doc key="FIM26-10-00-01" title="TASK 26-10-00-01 - DETECTION SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1roCLbVqtRGrP0v0LBMbNZCdUOJbsuTMJ/preview" />
 </folder>
 <folder key="FIM26-20-00" title="26-20-00 - EXTINGUISHING SYSTEM">
-<doc key="FIM26-20-00-01" title="TASK 26-20-00-01 - EXTINGUISHING SYSTEM - FAULT ISOLATION" file="FIM26-20-00-01.pdf"/>
+<doc key="FIM26-20-00-01" title="TASK 26-20-00-01 - EXTINGUISHING SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1LlJ3LBNRaGunCfEvi2smjCdj61ruSYjb/preview" />
 </folder>
 </folder>
 <folder key="FIM27" title="CH 27 - FLIGHT CONTROLS">
 <folder key="FIM27-FM" title="Front Matter">
-<doc key="CLEP-27" title="List of Effective Pages" file="CLEP-27.pdf"/>
-<doc key="CTOC-27" title="Table of Contents" file="CTOC-27.pdf"/>
+<doc key="CLEP-27" title="List of Effective Pages" file="https://drive.google.com/file/d/1PEZRoSj89cN4ibrhA04WbEwZ0fLs-wr2/preview" />
+<doc key="CTOC-27" title="Table of Contents" file="https://drive.google.com/file/d/1xpkn6YVvzIXjiT9VU0H2edybMLA2-_Pi/preview" />
 </folder>
 <folder key="FIM27-99-01" title="27-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM27-99-01-01" title="TASK 27-99-01-01 - FLIGHT CONTROL - EICAS MESSAGES" file="FIM27-99-01-01.pdf"/>
+<doc key="FIM27-99-01-01" title="TASK 27-99-01-01 - FLIGHT CONTROL - EICAS MESSAGES" file="https://drive.google.com/file/d/1sEZF6i98939QD_-kHrQ9x_D-vjLvr2s4/preview" />
 </folder>
 <folder key="FIM27-99-02" title="27-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM27-99-02-01" title="TASK 27-99-02-01 - FLIGHT CONTROLS - FAULT CODE DIAGRAMS" file="FIM27-99-02-01.pdf"/>
+<doc key="FIM27-99-02-01" title="TASK 27-99-02-01 - FLIGHT CONTROLS - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/1lnqmhzlNssEBYKi4bTVut9VC_iCL8Ko3/preview" />
 </folder>
 <folder key="FIM27-99-03" title="27-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM27-99-03-01" title="TASK 27-99-03-01 - FLIGHT CONTROL - FAULT CODE INDEX" file="FIM27-99-03-01.pdf"/>
+<doc key="FIM27-99-03-01" title="TASK 27-99-03-01 - FLIGHT CONTROL - FAULT CODE INDEX" file="https://drive.google.com/file/d/1Q6XExO9frQ2leSG8ggDZpb6CUUNDSEAC/preview" />
 </folder>
 <folder key="FIM27-00-00" title="27-00-00 - FLIGHT CONTROLS">
-<doc key="FIM27-00-00-01" title="TASK 27-00-00-01 - FLIGHT CONTROLS - FAULT ISOLATION" file="FIM27-00-00-01.pdf"/>
+<doc key="FIM27-00-00-01" title="TASK 27-00-00-01 - FLIGHT CONTROLS - FAULT ISOLATION" file="https://drive.google.com/file/d/1OUEdjIkmRaoS-O-gaJVB-QYeWOl2zzFT/preview" />
 </folder>
 <folder key="FIM27-00-10" title="27-00-10 - FLIGHT CONTROLS - CREW FORCE MEASURING SYSTEM">
-<doc key="FIM27-00-10-01" title="TASK 27-00-10-01 - CREW FORCE MEASURING SYSTEM - FAULT ISOLATION" file="FIM27-00-10-01.pdf"/>
+<doc key="FIM27-00-10-01" title="TASK 27-00-10-01 - CREW FORCE MEASURING SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1JU1EY7kMwrw4NMu68WHQiZq2bxW_0vy7/preview" />
 </folder>
 <folder key="FIM27-10-00" title="27-10-00 - AILERON">
-<doc key="FIM27-10-00-01" title="TASK 27-10-00-01 - AILERON - FAULT ISOLATION" file="FIM27-10-00-01.pdf"/>
+<doc key="FIM27-10-00-01" title="TASK 27-10-00-01 - AILERON - FAULT ISOLATION" file="https://drive.google.com/file/d/1I-UxMdO7sR0D_zX73XYcOlrP11s0t-vg/preview" />
 </folder>
 <folder key="FIM27-20-00" title="27-20-00 - RUDDER">
-<doc key="FIM27-20-00-01" title="TASK 27-20-00-01 - RUDDER - FAULT ISOLATION" file="FIM27-20-00-01.pdf"/>
+<doc key="FIM27-20-00-01" title="TASK 27-20-00-01 - RUDDER - FAULT ISOLATION" file="https://drive.google.com/file/d/1zfdX9zkBFnbCAJ8Kpp5JHTqE4h_FXM6t/preview" />
 </folder>
 <folder key="FIM27-30-00" title="27-30-00 - ELEVATOR SYSTEM">
-<doc key="FIM27-30-00-01" title="TASK 27-30-00-01 - ELEVATOR - FAULT ISOLATION" file="FIM27-30-00-01.pdf"/>
+<doc key="FIM27-30-00-01" title="TASK 27-30-00-01 - ELEVATOR - FAULT ISOLATION" file="https://drive.google.com/file/d/13WjH2FOne2VBL2TsGGBC4LuhxG120hB6/preview" />
 </folder>
 <folder key="FIM27-31-00" title="27-31-00 - ELEVATOR BACKLASH">
-<doc key="FIM27-31-00-01" title="TASK 27-31-00-01 - ELEVATOR BACKLASH -FAULT ISOLATION" file="FIM27-31-00-01.pdf"/>
+<doc key="FIM27-31-00-01" title="TASK 27-31-00-01 - ELEVATOR BACKLASH -FAULT ISOLATION" file="https://drive.google.com/file/d/1XbKCoNYe_nofDhe22aWQwGyMRFJM5jWL/preview" />
 </folder>
 <folder key="FIM27-32-00" title="27-32-00 - ELEVATOR STIFF OR HEAVY">
-<doc key="FIM27-32-00-01" title="TASK 27-32-00-01 - ELEVATOR STIFF OR HEAVY-FAULT ISOLATION" file="FIM27-32-00-01.pdf"/>
+<doc key="FIM27-32-00-01" title="TASK 27-32-00-01 - ELEVATOR STIFF OR HEAVY-FAULT ISOLATION" file="https://drive.google.com/file/d/1s0YQoM_Kby7QXpU_gt0AejFUqfmUYdZY/preview" />
 </folder>
 <folder key="FIM27-33-00" title="27-33-00 - PITCH FEEL CONTROL SYSTEM">
-<doc key="FIM27-33-00-01" title="TASK 27-33-00-01 - PITCH FEEL CONTROL SYSTEM-FAULT ISOLATION" file="FIM27-33-00-01.pdf"/>
+<doc key="FIM27-33-00-01" title="TASK 27-33-00-01 - PITCH FEEL CONTROL SYSTEM-FAULT ISOLATION" file="https://drive.google.com/file/d/17tyuBM7gvQbFE03cZ8eIwaNqLt92nGUr/preview" />
 </folder>
 <folder key="FIM27-34-00" title="27-34-00 - ELEVATOR CONTROL SURFACE SYSTEM - FLUTTER DAMPER  - ELEVATOR CONTROL SURFACE SYSTEM - FLUTTER DAMPER">
-<doc key="FIM27-34-00-01" title="TASK 27-34-00-01 - ELEVATOR CONTROL SURFACE SYSTEM-FLUTTER DAMPER" file="FIM27-34-00-01.pdf"/>
+<doc key="FIM27-34-00-01" title="TASK 27-34-00-01 - ELEVATOR CONTROL SURFACE SYSTEM-FLUTTER DAMPER" file="https://drive.google.com/file/d/1-S_ov4c-3t5thPraYrcClKRER3gK-cxk/preview" />
 </folder>
 <folder key="FIM27-35-00" title="27-35-00 - STALL PROTECTION SYSTEM">
-<doc key="FIM27-35-00-01" title="TASK 27-35-00-01 - STALL PROTECTION SYSTEM - FAULT ISOLATION" file="FIM27-35-00-01.pdf"/>
+<doc key="FIM27-35-00-01" title="TASK 27-35-00-01 - STALL PROTECTION SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/190EpvODXH2yQ0ADWRnMING074SNCYXn_/preview" />
 </folder>
 <folder key="FIM27-40-00" title="27-40-00 - HORIZONTAL STABILIZER">
-<doc key="FIM27-40-00-01" title="TASK 27-40-00-01 - HoRIZONTAL STABILIZER - FAULT ISOLATION" file="FIM27-40-00-01.pdf"/>
+<doc key="FIM27-40-00-01" title="TASK 27-40-00-01 - HoRIZONTAL STABILIZER - FAULT ISOLATION" file="https://drive.google.com/file/d/1Ldd17zxymrYex5qW9izGK8nnRVJcKj69/preview" />
 </folder>
 <folder key="FIM27-50-00" title="27-50-00 - FLAPS">
-<doc key="FIM27-50-00-01" title="TASK 27-50-00-01 - FLAPS - FAULT ISOLATION" file="FIM27-50-00-01.pdf"/>
+<doc key="FIM27-50-00-01" title="TASK 27-50-00-01 - FLAPS - FAULT ISOLATION" file="https://drive.google.com/file/d/15SP_NcXV24juV9FEcdA-bE4c6xI2nx1Y/preview" />
 </folder>
 <folder key="FIM27-60-00" title="27-60-00 - SPOILERS">
-<doc key="FIM27-60-00-01" title="TASK 27-60-00-01 - SPOILERS - FAULT ISOLATION" file="FIM27-60-00-01.pdf"/>
+<doc key="FIM27-60-00-01" title="TASK 27-60-00-01 - SPOILERS - FAULT ISOLATION" file="https://drive.google.com/file/d/1M-DkYndoTkRgaRdlET_WhiH_aQpIfRTt/preview" />
 </folder>
 </folder>
 <folder key="FIM28" title="CH 28 - FUEL">
 <folder key="FIM28-FM" title="Front Matter">
-<doc key="CLEP-28" title="List of Effective Pages" file="CLEP-28.pdf"/>
-<doc key="CTOC-28" title="Table of Contents" file="CTOC-28.pdf"/>
+<doc key="CLEP-28" title="List of Effective Pages" file="https://drive.google.com/file/d/1H_tY0Z8GWbVBkSIjbrK-hZhyKuwtBTEC/preview" />
+<doc key="CTOC-28" title="Table of Contents" file="https://drive.google.com/file/d/1L0xJ9u49YLDygESFwwDmtLAW0RgwcggV/preview" />
 </folder>
 <folder key="FIM28-99-01" title="28-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM28-99-01-01" title="TASK 28-99-01-01 - FUEL SYSTEM - EICAS MESSAGES" file="FIM28-99-01-01.pdf"/>
+<doc key="FIM28-99-01-01" title="TASK 28-99-01-01 - FUEL SYSTEM - EICAS MESSAGES" file="https://drive.google.com/file/d/1WXXf7Isn2ybOyzPxuJ2KyQdEFNQ0ldg6/preview" />
 </folder>
 <folder key="FIM28-99-02" title="28-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM28-99-02-01" title="TASK 28-99-02-01 - FUEL - FAULT CODE DIAGRAMS" file="FIM28-99-02-01.pdf"/>
+<doc key="FIM28-99-02-01" title="TASK 28-99-02-01 - FUEL - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/1HA9ZhZYntD94uWJPTafdMt8GvZu75iGw/preview" />
 </folder>
 <folder key="FIM28-99-03" title="28-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM28-99-03-01" title="TASK 28-99-03-01 - FUEL SYSTEM - FAULT CODE INDEX" file="FIM28-99-03-01.pdf"/>
+<doc key="FIM28-99-03-01" title="TASK 28-99-03-01 - FUEL SYSTEM - FAULT CODE INDEX" file="https://drive.google.com/file/d/1_aK_WwaMKtZ0p4hHO1OQWK9FWIJR547z/preview" />
 </folder>
 <folder key="FIM28-00-00" title="28-00-00 - FUEL SYSTEM">
-<doc key="FIM28-00-00-01" title="TASK 28-00-00-01 - FUEL SYSTEM - FAULT ISOLATION" file="FIM28-00-00-01.pdf"/>
+<doc key="FIM28-00-00-01" title="TASK 28-00-00-01 - FUEL SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1JLFhnNzcv7CWdtFHsixiKQrj1EgmVzuD/preview" />
 </folder>
 <folder key="FIM28-10-00" title="28-10-00 - STORAGE SYSTEM">
-<doc key="FIM28-10-00-01" title="TASK 28-10-00-01 - STORAGE SYSTEM - FAULT ISOLATION" file="FIM28-10-00-01.pdf"/>
+<doc key="FIM28-10-00-01" title="TASK 28-10-00-01 - STORAGE SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/11zrC3tFcvHf_GNernKVEFxQlFRIBEOCE/preview" />
 </folder>
 <folder key="FIM28-20-00" title="28-20-00 - DISTRIBUTION SYSTEM">
-<doc key="FIM28-20-00-01" title="TASK 28-20-00-01 - DISTRIBUTION SYSTEM - FAULT ISOLATION" file="FIM28-20-00-01.pdf"/>
+<doc key="FIM28-20-00-01" title="TASK 28-20-00-01 - DISTRIBUTION SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1bA4XeWz3OsxTEjOIjPpNyeWO1k2yypWr/preview" />
 </folder>
 <folder key="FIM28-40-00" title="28-40-00 - SECTION - INDICATING SYSTEM">
-<doc key="FIM28-40-00-01" title="TASK 28-40-00-01 - INDICATING SYSTEM - FAULT ISOLATION" file="FIM28-40-00-01.pdf"/>
+<doc key="FIM28-40-00-01" title="TASK 28-40-00-01 - INDICATING SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1_w-EkvF-HnBswMbgy3Z612bktMVzj9Da/preview" />
 </folder>
 </folder>
 <folder key="FIM29" title="CH 29 - HYDRAULIC POWER">
 <folder key="FIM29-FM" title="Front Matter">
-<doc key="CLEP-29" title="List of Effective Pages" file="CLEP-29.pdf"/>
-<doc key="CTOC-29" title="Table of Contents" file="CTOC-29.pdf"/>
+<doc key="CLEP-29" title="List of Effective Pages" file="https://drive.google.com/file/d/1yaLUED8ihpx98BtK9N1ZFzIgAZi_mwr4/preview" />
+<doc key="CTOC-29" title="Table of Contents" file="https://drive.google.com/file/d/1WYRi2ABs-ktmATCyU8szzgEmX8kR8CeW/preview" />
 </folder>
 <folder key="FIM29-99-01" title="29-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM29-99-01-01" title="TASK 29-99-01-01 - HYDRAULIC SYSTEM - EICAS MESSAGES" file="FIM29-99-01-01.pdf"/>
+<doc key="FIM29-99-01-01" title="TASK 29-99-01-01 - HYDRAULIC SYSTEM - EICAS MESSAGES" file="https://drive.google.com/file/d/1CFWfSDL72ufFuBDObxOAK39DTXdgWqpi/preview" />
 </folder>
 <folder key="FIM29-99-02" title="29-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM29-99-02-01" title="TASK 29-99-02-01 - HYDRAULICS - FAULT CODE DIAGRAMS" file="FIM29-99-02-01.pdf"/>
+<doc key="FIM29-99-02-01" title="TASK 29-99-02-01 - HYDRAULICS - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/1tTSItCIjuXocbjkKNwzLRODKydDA4HZs/preview" />
 </folder>
 <folder key="FIM29-99-03" title="29-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM29-99-03-01" title="TASK 29-99-03-01 - HYDRAULIC SYSTEM - FAULT CODE INDEX" file="FIM29-99-03-01.pdf"/>
+<doc key="FIM29-99-03-01" title="TASK 29-99-03-01 - HYDRAULIC SYSTEM - FAULT CODE INDEX" file="https://drive.google.com/file/d/1JT6WLHHGBW4grDfaYfoO5_cWxGcgF5Yg/preview" />
 </folder>
 <folder key="FIM29-00-00" title="29-00-00 - HYDRAULICS">
-<doc key="FIM29-00-00-01" title="TASK 29-00-00-01 - HYDRAULICS - FAULT ISOLATION" file="FIM29-00-00-01.pdf"/>
+<doc key="FIM29-00-00-01" title="TASK 29-00-00-01 - HYDRAULICS - FAULT ISOLATION" file="https://drive.google.com/file/d/1sQrBoG9iZGxmDFba85tV4O-Os_oNdxVd/preview" />
 </folder>
 <folder key="FIM29-10-00" title="29-10-00 - MAIN HYDRAULIC POWER">
-<doc key="FIM29-10-00-01" title="TASK 29-10-00-01 - MAIN HYDRAULIC POWER - FAULT ISOLATION" file="FIM29-10-00-01.pdf"/>
+<doc key="FIM29-10-00-01" title="TASK 29-10-00-01 - MAIN HYDRAULIC POWER - FAULT ISOLATION" file="https://drive.google.com/file/d/1e2rL270lOGbnoTc0We3EqtJJSzuljEFo/preview" />
 </folder>
 <folder key="FIM29-30-00" title="29-30-00 - INDICATING">
-<doc key="FIM29-30-00-01" title="TASK 29-30-00-01 - INDICATING - FAULT ISOLATION" file="FIM29-30-00-01.pdf"/>
+<doc key="FIM29-30-00-01" title="TASK 29-30-00-01 - INDICATING - FAULT ISOLATION" file="https://drive.google.com/file/d/1n1sKyPsxCUw9AGM_v85Moe_wuWN84bzj/preview" />
 </folder>
 </folder>
 <folder key="FIM30" title="CH 30 - ICE AND RAIN PROTECTION">
 <folder key="FIM30-FM" title="Front Matter">
-<doc key="CLEP-30" title="List of Effective Pages" file="CLEP-30.pdf"/>
-<doc key="CTOC-30" title="Table of Contents" file="CTOC-30.pdf"/>
+<doc key="CLEP-30" title="List of Effective Pages" file="https://drive.google.com/file/d/1_CsPVI418GuEz381WND2Da1ehrWFVLyw/preview" />
+<doc key="CTOC-30" title="Table of Contents" file="https://drive.google.com/file/d/1pCJAfFe9GlwkR8MUUQ7q1YDQgv2oqFpE/preview" />
 </folder>
 <folder key="FIM30-99-01" title="30-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM30-99-01-01" title="TASK 30-99-01-01 - ICE AND RAIN PROTECTION - EICAS MESSAGES" file="FIM30-99-01-01.pdf"/>
+<doc key="FIM30-99-01-01" title="TASK 30-99-01-01 - ICE AND RAIN PROTECTION - EICAS MESSAGES" file="https://drive.google.com/file/d/122beDJJ_5W6vww7HTMJQo5ohY7MpyMIp/preview" />
 </folder>
 <folder key="FIM30-99-02" title="30-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM30-99-02-01" title="TASK 30-99-02-01 - ANTI-ICE - FAULT CODE DIAGRAMS" file="FIM30-99-02-01.pdf"/>
+<doc key="FIM30-99-02-01" title="TASK 30-99-02-01 - ANTI-ICE - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/12iKx5Z8U-8MzW2UoVOG1EWTxSImonUno/preview" />
 </folder>
 <folder key="FIM30-99-03" title="30-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM30-99-03-01" title="TASK 30-99-03-01 - ICE AND RAIN PROTECTION - FAULT CODE INDEX" file="FIM30-99-03-01.pdf"/>
+<doc key="FIM30-99-03-01" title="TASK 30-99-03-01 - ICE AND RAIN PROTECTION - FAULT CODE INDEX" file="https://drive.google.com/file/d/15RKilCgtkndsqWCyKVTWLCUpC371DpRz/preview" />
 </folder>
 <folder key="FIM30-00-00" title="30-00-00 - ICE AND RAIN PROTECTION">
-<doc key="FIM30-00-00-01" title="TASK 30-00-00-01 - ICE AND RAIN PROTECTION - FAULT ISOLATION" file="FIM30-00-00-01.pdf"/>
+<doc key="FIM30-00-00-01" title="TASK 30-00-00-01 - ICE AND RAIN PROTECTION - FAULT ISOLATION" file="https://drive.google.com/file/d/1A7Jp7pIxHadkaUnz2Qx8X_HRsc1WB138/preview" />
 </folder>
 <folder key="FIM30-10-00" title="30-10-00 - WING ANTI-ICING SYSTEM">
-<doc key="FIM30-10-00-01" title="TASK 30-10-00-01 - WING ANTI-ICING SYSTEM - FAULT ISOLATION" file="FIM30-10-00-01.pdf"/>
+<doc key="FIM30-10-00-01" title="TASK 30-10-00-01 - WING ANTI-ICING SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1RpwOzUDlHiPj9GxUYCBeHwuo0fsNKnBX/preview" />
 </folder>
 <folder key="FIM30-20-00" title="30-20-00 - ENGINE COWL ANTI-ICING SYSTEM">
-<doc key="FIM30-20-00-01" title="TASK 30-20-00-01 - ENGINE COWL ANTI-ICING SYSTEM - FAULT ISOLATION" file="FIM30-20-00-01.pdf"/>
+<doc key="FIM30-20-00-01" title="TASK 30-20-00-01 - ENGINE COWL ANTI-ICING SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1V80J9ygfbWZ2UA8J2rMgtjOCwPjHGGJk/preview" />
 </folder>
 <folder key="FIM30-30-00" title="30-30-00 - PITOT AND STATIC  - PITOT AND STATIC">
-<doc key="FIM30-30-00-01" title="TASK 30-30-00-01 - PITOT AND STATIC - FAULT ISOLATION" file="FIM30-30-00-01.pdf"/>
+<doc key="FIM30-30-00-01" title="TASK 30-30-00-01 - PITOT AND STATIC - FAULT ISOLATION" file="https://drive.google.com/file/d/1qHZumutmAC-EK-ph7IVJTZhpsaXJUcKZ/preview" />
 </folder>
 <folder key="FIM30-40-00" title="30-40-00 - WINDOW AND WINDSHIELD SYSTEM">
-<doc key="FIM30-40-00-01" title="TASK 30-40-00-01 - WINDOW AND WINDSHIELD SYSTEM - FAULT ISOLATION" file="FIM30-40-00-01.pdf"/>
+<doc key="FIM30-40-00-01" title="TASK 30-40-00-01 - WINDOW AND WINDSHIELD SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1HVc9MZeKd45QUPGoT2HXYTjquwll7H5H/preview" />
 </folder>
 <folder key="FIM30-80-00" title="30-80-00 - DETECTION">
-<doc key="FIM30-80-00-01" title="TASK 30-80-00-01 - DETECTION - FAULT ISOLATION" file="FIM30-80-00-01.pdf"/>
+<doc key="FIM30-80-00-01" title="TASK 30-80-00-01 - DETECTION - FAULT ISOLATION" file="https://drive.google.com/file/d/1Vu39JNtVoAbvWfJVKxJs-jYyeK8S43jP/preview" />
 </folder>
 </folder>
 <folder key="FIM31" title="CH 31 - INDICATING/RECORDING SYSTEMS">
 <folder key="FIM31-FM" title="Front Matter">
-<doc key="CLEP-31" title="List of Effective Pages" file="CLEP-31.pdf"/>
-<doc key="CTOC-31" title="Table of Contents" file="CTOC-31.pdf"/>
+<doc key="CLEP-31" title="List of Effective Pages" file="https://drive.google.com/file/d/1IA1HDQt5PeNcoA-cWeosGBEL9JwBQbyc/preview" />
+<doc key="CTOC-31" title="Table of Contents" file="https://drive.google.com/file/d/1FEA8iZYT8q2-a3OLWfobyKyBTgbTmyrH/preview" />
 </folder>
 <folder key="FIM31-99-01" title="31-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM31-99-01-01" title="TASK 31-99-01-01 - INDICATING/RECORDING SYSTEMS - FAULT ISOLATION" file="FIM31-99-01-01.pdf"/>
+<doc key="FIM31-99-01-01" title="TASK 31-99-01-01 - INDICATING/RECORDING SYSTEMS - FAULT ISOLATION" file="https://drive.google.com/file/d/1-yjBdymNGoxZwWEKCoRIfW38FpX7mW5h/preview" />
 </folder>
 <folder key="FIM31-20-00" title="31-20-00 - INDEPENDENT INSTRUMENTS - INDEPENDENT INSTRUMENTS - FAULT ISOLATION">
-<doc key="FIM31-20-00-01" title="TASK 31-20-00-01 - INDEPENDENT INSTRUMENTS - FAULT ISOLATION" file="FIM31-20-00-01.pdf"/>
+<doc key="FIM31-20-00-01" title="TASK 31-20-00-01 - INDEPENDENT INSTRUMENTS - FAULT ISOLATION" file="https://drive.google.com/file/d/1iz0ch1fqA3j4pTgVvWFAD3GbQKP-39rB/preview" />
 </folder>
 <folder key="FIM31-21-00" title="31-21-00 - DIGITAL CLOCK SYSTEM - DIGITAL CLOCK SYSTEM - FAULT ISOLATION">
-<doc key="FIM31-21-00-01" title="TASK 31-21-00-01 - DIGITAL CLOCK SYSTEM - FAULT ISOLATION" file="FIM31-21-00-01.pdf"/>
+<doc key="FIM31-21-00-01" title="TASK 31-21-00-01 - DIGITAL CLOCK SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1DCuZM7TrLAkMdFieVa0eHzdgkCfti8gJ/preview" />
 </folder>
 <folder key="FIM31-30-00" title="31-30-00 - RECORDERS">
-<doc key="FIM31-30-00-01" title="TASK 31-30-00-01 - RECORDERS - FAULT ISOLATION" file="FIM31-30-00-01.pdf"/>
+<doc key="FIM31-30-00-01" title="TASK 31-30-00-01 - RECORDERS - FAULT ISOLATION" file="https://drive.google.com/file/d/1woF4AWYrUWljhU1OKZK8lwKWS3DbRoEI/preview" />
 </folder>
 <folder key="FIM31-31-00" title="31-31-00 - FLIGHT DATA RECORDER - FLIGHT DATA RECORDER - FAULT ISOLATION">
-<doc key="FIM31-31-00-01" title="TASK 31-31-00-01 - FLIGHT DATA RECORDER - FAULT ISOLATION" file="FIM31-31-00-01.pdf"/>
+<doc key="FIM31-31-00-01" title="TASK 31-31-00-01 - FLIGHT DATA RECORDER - FAULT ISOLATION" file="https://drive.google.com/file/d/1A2q3cXbuWa58aBUv3vx_KWXFFIcKfYVb/preview" />
 </folder>
 <folder key="FIM31-40-00" title="31-40-00 - CENTRAL COMPUTERS">
-<doc key="FIM31-40-00-01" title="TASK 31-40-00-01 - CENTRAL COMPUTERS - FAULT ISOLATION" file="FIM31-40-00-01.pdf"/>
+<doc key="FIM31-40-00-01" title="TASK 31-40-00-01 - CENTRAL COMPUTERS - FAULT ISOLATION" file="https://drive.google.com/file/d/1EmSky2BX7j7Rsc8Pmjak74J7aOfaKU4f/preview" />
 </folder>
 <folder key="FIM31-41-00" title="31-41-00 - ENGINE INDICATION AND CREW ALERTING SYSTEM - ENIGINE INDICATION AND CREW ALERTING SYSTEM - FAULT ISOLATION">
-<doc key="FIM31-41-00-01" title="TASK 31-41-00-01 - ENGINE INDICATING AND CREW ALERTING SYSTEM - FAULT ISOLATION" file="FIM31-41-00-01.pdf"/>
+<doc key="FIM31-41-00-01" title="TASK 31-41-00-01 - ENGINE INDICATING AND CREW ALERTING SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1omPHeRApN4GWNiIiwE-Tbyc0E_myMgbk/preview" />
 </folder>
 <folder key="FIM31-50-00" title="31-50-00 - CENTRAL WARNING SYSTEM - CENTRAL WARNING SYSTEM - FAULT ISOLATION">
-<doc key="FIM31-50-00-01" title="TASK 31-50-00-01 - CENTRAL WARNING SYSTEM - FAULT ISOLATION" file="FIM31-50-00-01.pdf"/>
+<doc key="FIM31-50-00-01" title="TASK 31-50-00-01 - CENTRAL WARNING SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1SDstswTOI9ksn_7SIHL7t-9zmFrhuxcN/preview" />
 </folder>
 <folder key="FIM31-51-00" title="31-51-00 - AURAL WARNING SYSTEM - AURAL WARNING SYSTEM - FAULT ISOLATION">
-<doc key="FIM31-51-00-01" title="TASK 31-51-00-01 - AURAL WARNING SYSTEM - FAULT ISOLATION" file="FIM31-51-00-01.pdf"/>
+<doc key="FIM31-51-00-01" title="TASK 31-51-00-01 - AURAL WARNING SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1pITow_CznRlI4eSccccHJrMoObb7v1E6/preview" />
 </folder>
 <folder key="FIM31-52-00" title="31-52-00 - WARNING LIGHTS SYSTEM - WARNING LIGHTS SYSTEM - FAULT ISOLATION">
-<doc key="FIM31-52-00-01" title="TASK 31-52-00-01 - WARNING LIGHTS SYSTEM - FAULT ISOLATION" file="FIM31-52-00-01.pdf"/>
+<doc key="FIM31-52-00-01" title="TASK 31-52-00-01 - WARNING LIGHTS SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1fkSzwKAG_nDwckYEjfOr0KWP2FVlmwCL/preview" />
 </folder>
 </folder>
 <folder key="FIM32" title="CH 32 - LANDING GEAR">
 <folder key="FIM32-FM" title="Front Matter">
-<doc key="CLEP-32" title="List of Effective Pages" file="CLEP-32.pdf"/>
-<doc key="CTOC-32" title="Table of Contents" file="CTOC-32.pdf"/>
+<doc key="CLEP-32" title="List of Effective Pages" file="https://drive.google.com/file/d/1l0BdRCEsF_z_fVGe3kF7z-oJ2tttoHfX/preview" />
+<doc key="CTOC-32" title="Table of Contents" file="https://drive.google.com/file/d/1urfSmXnCsWhc7gkQaVopnkX_1qXnc84J/preview" />
 </folder>
 <folder key="FIM32-99-01" title="32-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM32-99-01-01" title="TASK 32-99-01-01 - LANDING GEAR - EICAS MESSAGES OR FLIGHT DECK EFFECT (OBSERVED FAULT)" file="FIM32-99-01-01.pdf"/>
+<doc key="FIM32-99-01-01" title="TASK 32-99-01-01 - LANDING GEAR - EICAS MESSAGES OR FLIGHT DECK EFFECT (OBSERVED FAULT)" file="https://drive.google.com/file/d/1kdkw9Uk5UEHnK1c-cKpm-XvpB1MjlN5Q/preview" />
 </folder>
 <folder key="FIM32-99-02" title="32-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM32-99-02-01" title="TASK 32-99-02-01 - LANDING GEAR - FAULT CODE DIAGRAMS" file="FIM32-99-02-01.pdf"/>
+<doc key="FIM32-99-02-01" title="TASK 32-99-02-01 - LANDING GEAR - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/1S97OJXzcmQSYvFKG1g1YEMx8EcHnyNNX/preview" />
 </folder>
 <folder key="FIM32-99-03" title="32-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM32-99-03-01" title="TASK 32-99-03-01 - LANDING GEAR - FAULT CODE INDEX" file="FIM32-99-03-01.pdf"/>
+<doc key="FIM32-99-03-01" title="TASK 32-99-03-01 - LANDING GEAR - FAULT CODE INDEX" file="https://drive.google.com/file/d/1yV5OOVG6g1u8cOeV1U5JQ2zLJQhEaGSV/preview" />
 </folder>
 <folder key="FIM32-00-00" title="32-00-00 - LANDING GEAR - LANDING GEAR SYSTEM">
-<doc key="FIM32-00-00-01" title="TASK 32-00-00-01 - LANDING GEAR - FAULT ISOLATION" file="FIM32-00-00-01.pdf"/>
+<doc key="FIM32-00-00-01" title="TASK 32-00-00-01 - LANDING GEAR - FAULT ISOLATION" file="https://drive.google.com/file/d/1uxySb4pQXaU6-AqdLGR2n12G1kLEdx58/preview" />
 </folder>
 <folder key="FIM32-40-00" title="32-40-00 - WHEELS AND BRAKES">
-<doc key="FIM32-40-00-01" title="TASK 32-40-00-01 - WHEELS AND BRAKES - FAULT ISOLATION" file="FIM32-40-00-01.pdf"/>
+<doc key="FIM32-40-00-01" title="TASK 32-40-00-01 - WHEELS AND BRAKES - FAULT ISOLATION" file="https://drive.google.com/file/d/1Y_53Gqzjk_BmTsfqiriZU3BXIBr2HnBK/preview" />
 </folder>
 <folder key="FIM32-50-00" title="32-50-00 - STEERING SYSTEM">
-<doc key="FIM32-50-00-01" title="TASK 32-50-00-01 - STEERING SYSTEM - FAULT ISOLATION" file="FIM32-50-00-01.pdf"/>
+<doc key="FIM32-50-00-01" title="TASK 32-50-00-01 - STEERING SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1NiIfwXBdoHSjFYpWg0z0v4ZR8qcKi3da/preview" />
 </folder>
 <folder key="FIM32-60-00" title="32-60-00 - POSITION AND WARNING">
-<doc key="FIM32-60-00-01-02" title="TASK 32-60-00-01-02 - POSITION AND WARNING - FAULT ISOLATION" file="FIM32-60-00-01-02.pdf"/>
+<doc key="FIM32-60-00-01-02" title="TASK 32-60-00-01-02 - POSITION AND WARNING - FAULT ISOLATION" file="https://drive.google.com/file/d/1jJ58v3t9OqUdJMSIrJ866kNrBgWZpyd1/preview" />
 </folder>
 <folder key="FIM32-60-05" title="32-60-05 - POSITION AND WARNING - PSEU BIT DISPLAY INFORMATION">
-<doc key="FIM32-60-05-01" title="TASK 32-60-05-01 - PSEU BIT DISPLAY INFORMATION - FAULT ISOLATION" file="FIM32-60-05-01.pdf"/>
+<doc key="FIM32-60-05-01" title="TASK 32-60-05-01 - PSEU BIT DISPLAY INFORMATION - FAULT ISOLATION" file="https://drive.google.com/file/d/1l_AxqVfxXLaEz44CyvbmI9qU48uwGOnV/preview" />
 </folder>
 <folder key="FIM32-60-07" title="32-60-07 - POSITION AND WARNING - GEAR DISAGREE EICAS WARNING">
-<doc key="FIM32-60-07-01" title="TASK 32-60-07-01 - GEAR DISAGREE EICAS WARNING - FAULT ISOLATION" file="FIM32-60-07-01.pdf"/>
+<doc key="FIM32-60-07-01" title="TASK 32-60-07-01 - GEAR DISAGREE EICAS WARNING - FAULT ISOLATION" file="https://drive.google.com/file/d/1MvlDLLzpLcIIeaXBkRBQtMdNKgsus1eS/preview" />
 </folder>
 <folder key="FIM32-60-08" title="32-60-08 - POSITION AND WARNING - NOSE DOOR OPEN EICAS WARNING">
-<doc key="FIM32-60-08-01" title="TASK 32-60-08-01 - NOSE DOOR OPEN EICAS WARNING-FAULT ISOLATION" file="FIM32-60-08-01.pdf"/>
+<doc key="FIM32-60-08-01" title="TASK 32-60-08-01 - NOSE DOOR OPEN EICAS WARNING-FAULT ISOLATION" file="https://drive.google.com/file/d/1jLtH4EyA79RbJ2alRDQav5caaLi-wEoW/preview" />
 </folder>
 <folder key="FIM32-60-09" title="32-60-09 - POSITION AND WARNING - GEAR DISAGREE TROUBLESHOOTING PROCEDURES">
-<doc key="FIM32-60-09-01" title="TASK 32-60-09-01 - GEAR DISAGREE EICAS WARNING-FAULT ISOLATION" file="FIM32-60-09-01.pdf"/>
+<doc key="FIM32-60-09-01" title="TASK 32-60-09-01 - GEAR DISAGREE EICAS WARNING-FAULT ISOLATION" file="https://drive.google.com/file/d/1uiJnh7yQHxZYM00VRCKeVFKRJhLRnCGZ/preview" />
 </folder>
 </folder>
 <folder key="FIM33" title="CH 33 - LIGHTS">
 <folder key="FIM33-FM" title="Front Matter">
-<doc key="CLEP-33" title="List of Effective Pages" file="CLEP-33.pdf"/>
-<doc key="CTOC-33" title="Table of Contents" file="CTOC-33.pdf"/>
+<doc key="CLEP-33" title="List of Effective Pages" file="https://drive.google.com/file/d/1PDZHErTLr0Er9ixq45ycJ_MpRw8TqklK/preview" />
+<doc key="CTOC-33" title="Table of Contents" file="https://drive.google.com/file/d/1TSNi7uJOQ7tkZwph2g_FPK-0MK5Hm6d9/preview" />
 </folder>
 <folder key="FIM33-99-01" title="33-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM33-99-01-01" title="TASK 33-99-01-01 - LIGHTING - FAULT ISOLATION CONTENTS" file="FIM33-99-01-01.pdf"/>
+<doc key="FIM33-99-01-01" title="TASK 33-99-01-01 - LIGHTING - FAULT ISOLATION CONTENTS" file="https://drive.google.com/file/d/1y8CL1ed7xXYl8p9GhF3bgq0sIATw32f8/preview" />
 </folder>
 <folder key="FIM33-99-02" title="33-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM33-99-02-01" title="TASK 33-99-02-01 - LIGHTING-FAULT CODE DIAGRAMS" file="FIM33-99-02-01.pdf"/>
+<doc key="FIM33-99-02-01" title="TASK 33-99-02-01 - LIGHTING-FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/15eG_W1lpJUW8ZOr1l7MBmiT6DZ1RRamG/preview" />
 </folder>
 <folder key="FIM33-99-03" title="33-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM33-99-03-01" title="TASK 33-99-03-01 - LIGHTING - FAULT CODE INDEX" file="FIM33-99-03-01.pdf"/>
+<doc key="FIM33-99-03-01" title="TASK 33-99-03-01 - LIGHTING - FAULT CODE INDEX" file="https://drive.google.com/file/d/1AnB1t1V1fv8FAIX_bh3Xrk4JoqZH7TBa/preview" />
 </folder>
 <folder key="FIM33-00-00" title="33-00-00 - LIGHTING SYSTEM">
-<doc key="FIM33-00-00-01" title="TASK 33-00-00-01 - LIGHTING SYSTEM - FAULT ISOLATION" file="FIM33-00-00-01.pdf"/>
+<doc key="FIM33-00-00-01" title="TASK 33-00-00-01 - LIGHTING SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1gpzJFEF9i85zVhtPiVREkUcpUvxRlRGr/preview" />
 </folder>
 <folder key="FIM33-10-00" title="33-10-00 - FLIGHT COMPARTMENT LIGHTING SYSTEM">
-<doc key="FIM33-10-00-01" title="TASK 33-10-00-01 - FLIGHT COMPARTMENT LIGHTING SYSTEM - FAULT ISOLATION" file="FIM33-10-00-01.pdf"/>
+<doc key="FIM33-10-00-01" title="TASK 33-10-00-01 - FLIGHT COMPARTMENT LIGHTING SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1QmoDVNaiI9qpMfrgBfCiMyGZO7BOyq_p/preview" />
 </folder>
 <folder key="FIM33-40-00" title="33-40-00 - EXTERIOR LIGHTING SYSTEM">
-<doc key="FIM33-40-00-01" title="TASK 33-40-00-01 - EXTERIOR LIGHTING SYSTEM - FAULT ISOLATION" file="FIM33-40-00-01.pdf"/>
+<doc key="FIM33-40-00-01" title="TASK 33-40-00-01 - EXTERIOR LIGHTING SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1ksLH1I-0UQ--Z-m9UB0-VLrpF1BDRSx4/preview" />
 </folder>
 </folder>
 <folder key="FIM34" title="CH 34 - NAVIGATION">
 <folder key="FIM34-FM" title="Front Matter">
-<doc key="CLEP-34" title="List of Effective Pages" file="CLEP-34.pdf"/>
-<doc key="CTOC-34" title="Table of Contents" file="CTOC-34.pdf"/>
+<doc key="CLEP-34" title="List of Effective Pages" file="https://drive.google.com/file/d/1M_eKnRttN0Nu1UMVcQ_aVSLtKDavJUcn/preview" />
+<doc key="CTOC-34" title="Table of Contents" file="https://drive.google.com/file/d/1b9CQIeIA3-AGLeNq3T5ENZ1SxM_CzCy0/preview" />
 </folder>
 <folder key="FIM34-99-01" title="34-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM34-99-01-01" title="TASK 34-99-01-01 - NAVIGATION SYSTEMS - FAULT ISOLATION" file="FIM34-99-01-01.pdf"/>
+<doc key="FIM34-99-01-01" title="TASK 34-99-01-01 - NAVIGATION SYSTEMS - FAULT ISOLATION" file="https://drive.google.com/file/d/1F6eRwtOHYIgen5ZinMGRJEHrF5Csf1rv/preview" />
 </folder>
 <folder key="FIM34-10-00" title="34-10-00 - FLIGHT ENVIRONMENT DATA">
-<doc key="FIM34-10-00-01" title="TASK 34-10-00-01 - FLIGHT ENVIRONMENT DATA - FAULT ISOLATION" file="FIM34-10-00-01.pdf"/>
+<doc key="FIM34-10-00-01" title="TASK 34-10-00-01 - FLIGHT ENVIRONMENT DATA - FAULT ISOLATION" file="https://drive.google.com/file/d/1u11dM7TEYLMPLFnYGeiTEW-efCvT20gg/preview" />
 </folder>
 <folder key="FIM34-12-00" title="34-12-00 - STANDBY PNEUMATIC INSTRUMENTS">
-<doc key="FIM34-12-00-01" title="TASK 34-12-00-01 - STANDBY PNEUMATIC INSTRUMENTS - FAULT ISOLATION" file="FIM34-12-00-01.pdf"/>
+<doc key="FIM34-12-00-01" title="TASK 34-12-00-01 - STANDBY PNEUMATIC INSTRUMENTS - FAULT ISOLATION" file="https://drive.google.com/file/d/1oG1l-X87Sa3KPV6aiAsn8XXVIIEEDznH/preview" />
 </folder>
 <folder key="FIM34-13-00" title="34-13-00 - AIR DATA COMPUTER">
-<doc key="FIM34-13-00-01" title="TASK 34-13-00-01 - AIR DATA COMPUTER - FAULT ISOLATION" file="FIM34-13-00-01.pdf"/>
+<doc key="FIM34-13-00-01" title="TASK 34-13-00-01 - AIR DATA COMPUTER - FAULT ISOLATION" file="https://drive.google.com/file/d/1neXUivgtIHD6AO4lrpCaCw4Y1YTNvfUi/preview" />
 </folder>
 <folder key="FIM34-20-00" title="34-20-00 - ATTITUDE AND DIRECTION">
-<doc key="FIM34-20-00-01" title="TASK 34-20-00-01 - ATTITUDE AND DIRECTION - FAULT ISOLATION" file="FIM34-20-00-01.pdf"/>
+<doc key="FIM34-20-00-01" title="TASK 34-20-00-01 - ATTITUDE AND DIRECTION - FAULT ISOLATION" file="https://drive.google.com/file/d/1fp9XApCQsG8ZQ3HqQx3hCMnqCC5k5NKw/preview" />
 </folder>
 <folder key="FIM34-21-00" title="34-21-00 - ATTITUDE HEADING AND REFERENCE SYSTEM (AHRS)">
-<doc key="FIM34-21-00-01" title="TASK 34-21-00-01 - ATTITUDE HEADING AND REFERENCE SYSTEM (AHRS) - FAULT ISOLATION" file="FIM34-21-00-01.pdf"/>
+<doc key="FIM34-21-00-01" title="TASK 34-21-00-01 - ATTITUDE HEADING AND REFERENCE SYSTEM (AHRS) - FAULT ISOLATION" file="https://drive.google.com/file/d/1YL_I41Duq_5CAXR8f7b8cNUfKxhyx2x6/preview" />
 </folder>
 <folder key="FIM34-25-00" title="34-25-00 - ELECTRONIC FLIGHT INSTRUMENTS SYSTEM (EFIS)">
-<doc key="FIM34-25-00-01" title="TASK 34-25-00-01 - ELECTRONIC FLIGHT INSTRUMENTS SYSTEM - FAULT ISOLATION" file="FIM34-25-00-01.pdf"/>
+<doc key="FIM34-25-00-01" title="TASK 34-25-00-01 - ELECTRONIC FLIGHT INSTRUMENTS SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1H5kEl_6OcBaTgIAbElcoGa9fI9ycn7IY/preview" />
 </folder>
 <folder key="FIM34-40-00" title="34-40-00 - INDEPENDENT POSITION DETERMINING  - INDEPENDENT POSITION DETERMINING">
-<doc key="FIM34-40-00-01" title="TASK 34-40-00-01 - INDEPENDENT POSITION DETERMINING - FAULT ISOLATION" file="FIM34-40-00-01.pdf"/>
+<doc key="FIM34-40-00-01" title="TASK 34-40-00-01 - INDEPENDENT POSITION DETERMINING - FAULT ISOLATION" file="https://drive.google.com/file/d/1fmVJYmb2mgihm4rAeHhD1NsHCwIc_u0L/preview" />
 </folder>
 <folder key="FIM34-41-00" title="34-41-00 - WEATHER RADAR - WEATHER RADAR - FAULT ISOLATION">
-<doc key="FIM34-41-00-01" title="TASK 34-41-00-01 - WEATHER RADAR - FAULT ISOLATION" file="FIM34-41-00-01.pdf"/>
+<doc key="FIM34-41-00-01" title="TASK 34-41-00-01 - WEATHER RADAR - FAULT ISOLATION" file="https://drive.google.com/file/d/1vvlT1K1Fl7clWB7WSun-H9dM0d8grUj2/preview" />
 </folder>
 <folder key="FIM34-42-00" title="34-42-00 - GROUND PROXIMITY WARNING SYSTEM - GROUND PROXIMITY WARNING SYSTEM - FAULT ISOLATION">
-<doc key="FIM34-42-00-01" title="TASK 34-42-00-01 - GROUND PROXIMITY WARNING SYSTEM - FAULT ISOLATION" file="FIM34-42-00-01.pdf"/>
-<doc key="FIM34-42-00-01-02" title="TASK 34-42-00-01-02 - ENHANCED GROUND PROXIMITY WARNING SYSTEM - FAULT ISOLATION" file="FIM34-42-00-01-02.pdf"/>
+<doc key="FIM34-42-00-01" title="TASK 34-42-00-01 - GROUND PROXIMITY WARNING SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1zEZkLo5wS5iywaZJp6Fo2wMbb_CmHlP6/preview" />
+<doc key="FIM34-42-00-01-02" title="TASK 34-42-00-01-02 - ENHANCED GROUND PROXIMITY WARNING SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1nS0MB7hWs_V1E6NU1ShQoIhIoOiKdJ1S/preview" />
 </folder>
 <folder key="FIM34-43-00" title="34-43-00 - TRAFFIC ALERT AND COLLISION AVOIDANCE SYSTEM - TRAFFIC ALERT AND COLLISION AVOIDANCE SYSTEM - FAULT ISOLATION">
-<doc key="FIM34-43-00-01" title="TASK 34-43-00-01 - TRAFFIC ALERT AND COLLISION AVOIDANCE SYSTEM - FAULT ISOLATION" file="FIM34-43-00-01.pdf"/>
+<doc key="FIM34-43-00-01" title="TASK 34-43-00-01 - TRAFFIC ALERT AND COLLISION AVOIDANCE SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1QYQjBDZpA7Uzx5Ae8hOxIcX5FsYUUoWn/preview" />
 </folder>
 <folder key="FIM34-44-00" title="34-44-00 - RADIO ALTIMETER - RADIO ALTIMETER - FAULT ISOLATION">
-<doc key="FIM34-44-00-01" title="TASK 34-44-00-01 - RADIO ALTIMETER - FAULT ISOALTION" file="FIM34-44-00-01.pdf"/>
+<doc key="FIM34-44-00-01" title="TASK 34-44-00-01 - RADIO ALTIMETER - FAULT ISOALTION" file="https://drive.google.com/file/d/19lJ_Ef7HBDjULlh38WL8de1I987j0jAk/preview" />
 </folder>
 <folder key="FIM34-50-00" title="34-50-00 - DEPENDENT POSITION DETERMINING">
-<doc key="FIM34-50-00-01" title="TASK 34-50-00-01 - DEPENDENT POSITION DETERMINING - FAULT ISOLATION" file="FIM34-50-00-01.pdf"/>
+<doc key="FIM34-50-00-01" title="TASK 34-50-00-01 - DEPENDENT POSITION DETERMINING - FAULT ISOLATION" file="https://drive.google.com/file/d/1b7GaxLVWfSTtg4OPDpnsVgmDchO7dB9A/preview" />
 </folder>
 <folder key="FIM34-51-00" title="34-51-00 - VHF NAVIGATION SYSTEM">
-<doc key="FIM34-51-00-01" title="TASK 34-51-00-01 - VHF NAVIGATION SYSTEM - FAULT ISOLATION" file="FIM34-51-00-01.pdf"/>
+<doc key="FIM34-51-00-01" title="TASK 34-51-00-01 - VHF NAVIGATION SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1G-8exmVvmkZLDYU3TwIQnSXlpsgzk1Dn/preview" />
 </folder>
 <folder key="FIM34-52-00" title="34-52-00 - AUTOMATIC DIRECTION FINDER SYSTEM">
-<doc key="FIM34-52-00-01" title="TASK 34-52-00-01 - AUTOMATIC DIRECTION FINDER SYSTEM - FAULT ISOLATION" file="FIM34-52-00-01.pdf"/>
+<doc key="FIM34-52-00-01" title="TASK 34-52-00-01 - AUTOMATIC DIRECTION FINDER SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1vKqBh-XseTy4O0jBTDUBOoJrhBYm0BCn/preview" />
 </folder>
 <folder key="FIM34-53-00" title="34-53-00 - DISTANCE MEASURING EQUIPMENT (DME) SYSTEM">
-<doc key="FIM34-53-00-01" title="TASK 34-53-00-01 - DISTANCE MEASURING EQUIPMENT (DME) SYSTEM - FAULT ISOLATION" file="FIM34-53-00-01.pdf"/>
+<doc key="FIM34-53-00-01" title="TASK 34-53-00-01 - DISTANCE MEASURING EQUIPMENT (DME) SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1QjLWODbSlgr8Vk0WpAzULJ8dNFGV2bXB/preview" />
 </folder>
 <folder key="FIM34-54-00" title="34-54-00 - MODE S TRANSPONDER SYSTEM">
-<doc key="FIM34-54-00-01" title="TASK 34-54-00-01 - MODE S TRANSPONDER SYSTEM - FAULT ISOLATION" file="FIM34-54-00-01.pdf"/>
+<doc key="FIM34-54-00-01" title="TASK 34-54-00-01 - MODE S TRANSPONDER SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/15FN6zJEbug0864vQxDwg8ROjVgZcoXjy/preview" />
 </folder>
 </folder>
 <folder key="FIM35" title="CH 35 - OXYGEN">
 <folder key="FIM35-FM" title="Front Matter">
-<doc key="CLEP-35" title="List of Effective Pages" file="CLEP-35.pdf"/>
-<doc key="CTOC-35" title="Table of Contents" file="CTOC-35.pdf"/>
+<doc key="CLEP-35" title="List of Effective Pages" file="https://drive.google.com/file/d/1m4lTfaWK76lTDw2nEkOILbN7BSh8Upgj/preview" />
+<doc key="CTOC-35" title="Table of Contents" file="https://drive.google.com/file/d/1DnIvN87SIDQP_POz9gjdRex8FhkFpHt9/preview" />
 </folder>
 <folder key="FIM35-99-01" title="35-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM35-99-01-01" title="TASK 35-99-01-01 - OXYGEN SYSTEM - EICAS MESSAGES" file="FIM35-99-01-01.pdf"/>
+<doc key="FIM35-99-01-01" title="TASK 35-99-01-01 - OXYGEN SYSTEM - EICAS MESSAGES" file="https://drive.google.com/file/d/13FAS3hrHlhuBNJDf0V-HklRL7Ah2-Rtf/preview" />
 </folder>
 <folder key="FIM35-99-02" title="35-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM35-99-02-01" title="TASK 35-99-02-01 - OXYGEN - FAULT CODE DIAGRAMS" file="FIM35-99-02-01.pdf"/>
+<doc key="FIM35-99-02-01" title="TASK 35-99-02-01 - OXYGEN - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/19mSS1i5CatjAkJ9mJ02AtGltavbOeDsk/preview" />
 </folder>
 <folder key="FIM35-99-03" title="35-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM35-99-03-01" title="TASK 35-99-03-01 - OXYGEN SYSTEM - FAULT CODE INDEX" file="FIM35-99-03-01.pdf"/>
+<doc key="FIM35-99-03-01" title="TASK 35-99-03-01 - OXYGEN SYSTEM - FAULT CODE INDEX" file="https://drive.google.com/file/d/1mtJP8vXVtj6DpbwrhbCjFoWqNV7f-TtU/preview" />
 </folder>
 <folder key="FIM35-00-00" title="35-00-00 - OXYGEN SYSTEM">
-<doc key="FIM35-00-00-01" title="TASK 35-00-00-01 - OXYGEN SYSTEM - FAULT ISOLATION" file="FIM35-00-00-01.pdf"/>
+<doc key="FIM35-00-00-01" title="TASK 35-00-00-01 - OXYGEN SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1Tog6524ZTrJ_NOZkW2vje1RN-e44R5bw/preview" />
 </folder>
 <folder key="FIM35-10-00" title="35-10-00 - CREW OXYGEN SYSTEM">
-<doc key="FIM35-10-00-01" title="TASK 35-10-00-01 - CREW OXYGEN SYSTEM - FAULT ISOLATION" file="FIM35-10-00-01.pdf"/>
+<doc key="FIM35-10-00-01" title="TASK 35-10-00-01 - CREW OXYGEN SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1vq4iTdvOT-w3vWiTFXajwQUxPxCGd3_p/preview" />
 </folder>
 <folder key="FIM35-20-00" title="35-20-00 - PASSENGER OXYGEN SYSTEM">
-<doc key="FIM35-20-00-01" title="TASK 35-20-00-01 - PASSENGER OXYGEN SYSTEM - FAULT ISOLATION" file="FIM35-20-00-01.pdf"/>
+<doc key="FIM35-20-00-01" title="TASK 35-20-00-01 - PASSENGER OXYGEN SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/15wx-YJhHLgZQpuCknNdkWzwURdQvB0Ug/preview" />
 </folder>
 </folder>
 <folder key="FIM36" title="CH 36 - PNEUMATIC">
 <folder key="FIM36-FM" title="Front Matter">
-<doc key="CLEP-36" title="List of Effective Pages" file="CLEP-36.pdf"/>
-<doc key="CTOC-36" title="Table of Contents" file="CTOC-36.pdf"/>
+<doc key="CLEP-36" title="List of Effective Pages" file="https://drive.google.com/file/d/13AYNDEJL46wwOT8VDQNq9OiEqVCpCfa7/preview" />
+<doc key="CTOC-36" title="Table of Contents" file="https://drive.google.com/file/d/1Kztjku2B3fbp138D7Cc4fVAb-_upIcUt/preview" />
 </folder>
 <folder key="FIM36-99-01" title="36-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM36-99-01-01" title="TASK 36-99-01-01 - PNEUMATIC SYSTEM - EICAS MESSAGES" file="FIM36-99-01-01.pdf"/>
+<doc key="FIM36-99-01-01" title="TASK 36-99-01-01 - PNEUMATIC SYSTEM - EICAS MESSAGES" file="https://drive.google.com/file/d/1qWMed3ev-hg7lhxd_6W_ACC5MZOf90Sn/preview" />
 </folder>
 <folder key="FIM36-99-02" title="36-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM36-99-02-01" title="TASK 36-99-02-01 - PNEUMATICS - FAULT CODE DIAGRAMS" file="FIM36-99-02-01.pdf"/>
+<doc key="FIM36-99-02-01" title="TASK 36-99-02-01 - PNEUMATICS - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/13WG-M0MoToPdg3sOHWALw_LdO_IASWqB/preview" />
 </folder>
 <folder key="FIM36-99-03" title="36-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM36-99-03-01" title="TASK 36-99-03-01 - PNEUMATIC SYSTEM - FAULT CODE INDEX" file="FIM36-99-03-01.pdf"/>
+<doc key="FIM36-99-03-01" title="TASK 36-99-03-01 - PNEUMATIC SYSTEM - FAULT CODE INDEX" file="https://drive.google.com/file/d/1zuZJKqyHpFcwu6e4wA6UA73Gdd8c7Me9/preview" />
 </folder>
 <folder key="FIM36-00-00" title="36-00-00 - PNEUMATIC">
-<doc key="FIM36-00-00-01" title="TASK 36-00-00-01 - PNEUMATIC - FAULT ISOLATION" file="FIM36-00-00-01.pdf"/>
+<doc key="FIM36-00-00-01" title="TASK 36-00-00-01 - PNEUMATIC - FAULT ISOLATION" file="https://drive.google.com/file/d/1eX9NiWMkWakx0QO-kkfY5nY4kiA0MQ4G/preview" />
 </folder>
 <folder key="FIM36-10-00" title="36-10-00 - BLEED AIR DISTRIBUTION">
-<doc key="FIM36-10-00-01" title="TASK 36-10-00-01 - BLEED AIR DISTRIBUTION - FAULT ISOLATION" file="FIM36-10-00-01.pdf"/>
+<doc key="FIM36-10-00-01" title="TASK 36-10-00-01 - BLEED AIR DISTRIBUTION - FAULT ISOLATION" file="https://drive.google.com/file/d/13x4ntjB97uxaa2vjtLfAiGQT46igr3_f/preview" />
 </folder>
 <folder key="FIM36-20-00" title="36-20-00 - BLEED AIR INDICATING">
-<doc key="FIM36-20-00-01" title="TASK 36-20-00-01 - BLEED AIR INDICATING - FAULT ISOLATION" file="FIM36-20-00-01.pdf"/>
+<doc key="FIM36-20-00-01" title="TASK 36-20-00-01 - BLEED AIR INDICATING - FAULT ISOLATION" file="https://drive.google.com/file/d/1wHRka4C0YGGa-W87H0lmqtdYSliN7uQZ/preview" />
 </folder>
 </folder>
 <folder key="FIM38" title="CH 38 - WATER/WASTE">
 <folder key="FIM38-FM" title="Front Matter">
-<doc key="CLEP-38" title="List of Effective Pages" file="CLEP-38.pdf"/>
-<doc key="CTOC-38" title="Table of Contents" file="CTOC-38.pdf"/>
+<doc key="CLEP-38" title="List of Effective Pages" file="https://drive.google.com/file/d/1NtBf0t6HpOeFKkbantzdlj2IkGFgIaAQ/preview" />
+<doc key="CTOC-38" title="Table of Contents" file="https://drive.google.com/file/d/1fYV76Sm-R7BNJuntKrGVqZQMNrDk_K-i/preview" />
 </folder>
 <folder key="FIM38-00-00" title="38-00-00 - WATER/WASTE">
-<doc key="FIM38-00-00-01" title="TASK 38-00-00-01 - WATER/WASTE - FAULT ISOLATION" file="FIM38-00-00-01.pdf"/>
+<doc key="FIM38-00-00-01" title="TASK 38-00-00-01 - WATER/WASTE - FAULT ISOLATION" file="https://drive.google.com/file/d/1H0FEVGTQKcWApQ0N7GgOpyqBU5By39kh/preview" />
 </folder>
 <folder key="FIM38-10-01" title="38-10-01 - POTABLE WATER SYSTEM - POTABLE WATER SYSTEM, ELECTRONIC CONTROL UNIT">
-<doc key="FIM38-10-01-02" title="TASK 38-10-01-02 - POTABLE WATER SYSTEM, ELECTRONIC CONTROL UNIT - FAILURE" file="FIM38-10-01-02.pdf"/>
+<doc key="FIM38-10-01-02" title="TASK 38-10-01-02 - POTABLE WATER SYSTEM, ELECTRONIC CONTROL UNIT - FAILURE" file="https://drive.google.com/file/d/1U37ttNNDF1ph7t8qc8hQMYLc4HKY5U7X/preview" />
 </folder>
 </folder>
 <folder key="FIM45" title="CH 45 - CENTRAL MAINTENANCE SYSTEM">
 <folder key="FIM45-FM" title="Front Matter">
-<doc key="CLEP-45" title="List of Effective Pages" file="CLEP-45.pdf"/>
-<doc key="CTOC-45" title="Table of Contents" file="CTOC-45.pdf"/>
+<doc key="CLEP-45" title="List of Effective Pages" file="https://drive.google.com/file/d/1r1l9XJXot53i7z5AkhGuBpjzI2-3iYpS/preview" />
+<doc key="CTOC-45" title="Table of Contents" file="https://drive.google.com/file/d/1-Ec8Q2_V8-gunOUZZX4KTZ9xn5LxS2sK/preview" />
 </folder>
 <folder key="FIM45-99-01" title="45-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM45-99-01-01" title="TASK 45-99-01-01 - MDC FAULTS" file="FIM45-99-01-01.pdf"/>
+<doc key="FIM45-99-01-01" title="TASK 45-99-01-01 - MDC FAULTS" file="https://drive.google.com/file/d/1apYSp64iCqXwLgAzeIU_O4lpXSb8UMm2/preview" />
 </folder>
 <folder key="FIM45-99-02" title="45-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM45-99-02-01" title="TASK 45-99-02-01 - MDC - FAULT CODE DIAGRAMS" file="FIM45-99-02-01.pdf"/>
+<doc key="FIM45-99-02-01" title="TASK 45-99-02-01 - MDC - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/11IGbjTr3MnzqKVR451GgaaC2mKNgoxV3/preview" />
 </folder>
 <folder key="FIM45-99-03" title="45-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM45-99-03-01" title="TASK 45-99-03-01 - MDC SYSTEM - FAULT CODE INDEX" file="FIM45-99-03-01.pdf"/>
+<doc key="FIM45-99-03-01" title="TASK 45-99-03-01 - MDC SYSTEM - FAULT CODE INDEX" file="https://drive.google.com/file/d/1onNFvLdbX1WJFHBzj9Kqu5feAa7E0TBN/preview" />
 </folder>
 <folder key="FIM45-00-00" title="45-00-00 - CENTRAL MAINTENANCE SYSTEM">
-<doc key="FIM45-00-00-01" title="TASK 45-00-00-01 - CENTRAL MAINTENANCE SYSTEM - FAULT ISOLATION" file="FIM45-00-00-01.pdf"/>
+<doc key="FIM45-00-00-01" title="TASK 45-00-00-01 - CENTRAL MAINTENANCE SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1PhsswWVfR2RlxI01euALWm7whraUePe-/preview" />
 </folder>
 <folder key="FIM45-40-00" title="45-40-00 - MAINTENANCE DIAGNOSTIC COMPUTER">
-<doc key="FIM45-40-00-01" title="TASK 45-40-00-01 - MAINTENANCE DIAGNOSTIC COMPUTER - FAULT ISOLATION" file="FIM45-40-00-01.pdf"/>
+<doc key="FIM45-40-00-01" title="TASK 45-40-00-01 - MAINTENANCE DIAGNOSTIC COMPUTER - FAULT ISOLATION" file="https://drive.google.com/file/d/1dfN--qIpKh5dqL346vuVtpVGtcUHwZfA/preview" />
 </folder>
 <folder key="FIM45-45-00" title="45-45-00 - MAINTENANCE DIAGNOSTIC SYSTEM">
-<doc key="FIM45-45-00-01" title="TASK 45-45-00-01 - MAINTENANCE DIAGNOSTIC SYSTEM - FAULT ISOLATION" file="FIM45-45-00-01.pdf"/>
+<doc key="FIM45-45-00-01" title="TASK 45-45-00-01 - MAINTENANCE DIAGNOSTIC SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1Trp1elGwd7-F-tcvjgc4tVPPIP3_ijMi/preview" />
 </folder>
 </folder>
 <folder key="FIM49" title="CH 49 - AIRBORNE AUXILIARY POWER">
 <folder key="FIM49-FM" title="Front Matter">
-<doc key="CLEP-49" title="List of Effective Pages" file="CLEP-49.pdf"/>
-<doc key="CTOC-49" title="Table of Contents" file="CTOC-49.pdf"/>
+<doc key="CLEP-49" title="List of Effective Pages" file="https://drive.google.com/file/d/182Abr4SURssi6XNnWjaKmlFpWeLGFEvy/preview" />
+<doc key="CTOC-49" title="Table of Contents" file="https://drive.google.com/file/d/1nxwozjenbb2a5kliz2BlupIWY1xGmZCd/preview" />
 </folder>
 <folder key="FIM49-99-01" title="49-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM49-99-01-01" title="TASK 49-99-01-01 - APU SYSTEM - EICAS MESSAGES" file="FIM49-99-01-01.pdf"/>
+<doc key="FIM49-99-01-01" title="TASK 49-99-01-01 - APU SYSTEM - EICAS MESSAGES" file="https://drive.google.com/file/d/1nSS9wg0jrOvUsJ68JgrOxYQzkM49qzT5/preview" />
 </folder>
 <folder key="FIM49-99-02" title="49-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM49-99-02-01" title="TASK 49-99-02-01 - APU - FAULT CODE DIAGRAMS" file="FIM49-99-02-01.pdf"/>
+<doc key="FIM49-99-02-01" title="TASK 49-99-02-01 - APU - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/1v48ho7CINkyjNll21HrhbZ9kLaA8MQKQ/preview" />
 </folder>
 <folder key="FIM49-99-03" title="49-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM49-99-03-01" title="TASK 49-99-03-01 - APU SYSTEM - FAULT CODE INDEX" file="FIM49-99-03-01.pdf"/>
+<doc key="FIM49-99-03-01" title="TASK 49-99-03-01 - APU SYSTEM - FAULT CODE INDEX" file="https://drive.google.com/file/d/1glWjDurS3FPP4rNSxG3d5Kq-80oUYk3b/preview" />
 </folder>
 <folder key="FIM49-00-00" title="49-00-00 - AIRBORNE AUXILIARY POWER - AIRBORNE AUXILIARY POWER UNIT (APU)">
-<doc key="FIM49-00-00-01" title="TASK 49-00-00-01 - AIRBORNE AUXILIARY POWER - FAULT ISOLATION" file="FIM49-00-00-01.pdf"/>
+<doc key="FIM49-00-00-01" title="TASK 49-00-00-01 - AIRBORNE AUXILIARY POWER - FAULT ISOLATION" file="https://drive.google.com/file/d/1jdk6qb2L8XCUPtCKPQoEp8U94kun1gh6/preview" />
 </folder>
 <folder key="FIM49-10-00" title="49-10-00 - POWER PLANT">
-<doc key="FIM49-10-00-01" title="TASK 49-10-00-01 - POWER PLANT - FAULT ISOLATION" file="FIM49-10-00-01.pdf"/>
+<doc key="FIM49-10-00-01" title="TASK 49-10-00-01 - POWER PLANT - FAULT ISOLATION" file="https://drive.google.com/file/d/1dzITLdaX9ov4Pi_doL2pmFRH9SZ0Zu_K/preview" />
 </folder>
 <folder key="FIM49-30-00" title="49-30-00 - FUEL">
-<doc key="FIM49-30-00-01" title="TASK 49-30-00-01 - FUEL - FAULT ISOLATION" file="FIM49-30-00-01.pdf"/>
+<doc key="FIM49-30-00-01" title="TASK 49-30-00-01 - FUEL - FAULT ISOLATION" file="https://drive.google.com/file/d/13Nx223K15oCFF8YFY8PE4gVceEToCPXi/preview" />
 </folder>
 <folder key="FIM49-40-00" title="49-40-00 - IGNITION/STARTING">
-<doc key="FIM49-40-00-01" title="TASK 49-40-00-01 - IGNITION/STARTING - FAULT ISOLATION" file="FIM49-40-00-01.pdf"/>
+<doc key="FIM49-40-00-01" title="TASK 49-40-00-01 - IGNITION/STARTING - FAULT ISOLATION" file="https://drive.google.com/file/d/1RAvyiaPSYu4fT1jUtPPNDTd0S8oeptCJ/preview" />
 </folder>
 <folder key="FIM49-50-00" title="49-50-00 - AIR SYSTEM">
-<doc key="FIM49-50-00-01" title="TASK 49-50-00-01 - AIR SYSTEM - FAULT ISOLATION" file="FIM49-50-00-01.pdf"/>
+<doc key="FIM49-50-00-01" title="TASK 49-50-00-01 - AIR SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1O-Uac8eMixq5TFnal1r-jGoQwgdYo2tg/preview" />
 </folder>
 <folder key="FIM49-60-00" title="49-60-00 - ENGINE CONTROL">
-<doc key="FIM49-60-00-01" title="TASK 49-60-00-01 - ENGINE CONTROL - FAULT ISOLATION" file="FIM49-60-00-01.pdf"/>
+<doc key="FIM49-60-00-01" title="TASK 49-60-00-01 - ENGINE CONTROL - FAULT ISOLATION" file="https://drive.google.com/file/d/1fU49Bmhxg_eqQ1MmaI2QrSRPMej7vAv7/preview" />
 </folder>
 </folder>
 <folder key="FIM52" title="CH 52 - DOORS">
 <folder key="FIM52-FM" title="Front Matter">
-<doc key="CLEP-52" title="List of Effective Pages" file="CLEP-52.pdf"/>
-<doc key="CTOC-52" title="Table of Contents" file="CTOC-52.pdf"/>
+<doc key="CLEP-52" title="List of Effective Pages" file="https://drive.google.com/file/d/1qUrloWeckUbxAnVUM9o2rmi6pCTaH2Oc/preview" />
+<doc key="CTOC-52" title="Table of Contents" file="https://drive.google.com/file/d/1MZcUmJs3Ri3tB5bZZhyo4RWyC_nKSEvb/preview" />
 </folder>
 <folder key="FIM52-99-01" title="52-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM52-99-01-01" title="TASK 52-99-01-01 - DOOR FAULT ISOLATION - MECHANICAL FAULTS AND DOOR EICAS MESSAGES" file="FIM52-99-01-01.pdf"/>
+<doc key="FIM52-99-01-01" title="TASK 52-99-01-01 - DOOR FAULT ISOLATION - MECHANICAL FAULTS AND DOOR EICAS MESSAGES" file="https://drive.google.com/file/d/1VjRR8ya23ZeCz3hKx_pzAtkPEabazYdx/preview" />
 </folder>
 <folder key="FIM52-99-02" title="52-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM52-99-02-01" title="TASK 52-99-02-01 - DOOR WARNING - FAULT CODE DIAGRAMS" file="FIM52-99-02-01.pdf"/>
+<doc key="FIM52-99-02-01" title="TASK 52-99-02-01 - DOOR WARNING - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/193LEH-TfX8Pzfxa_fsSG9G15BD5-aoVe/preview" />
 </folder>
 <folder key="FIM52-99-03" title="52-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM52-99-03-01" title="TASK 52-99-03-01 - DOOR WARNING - FAULT CODE INDEX" file="FIM52-99-03-01.pdf"/>
+<doc key="FIM52-99-03-01" title="TASK 52-99-03-01 - DOOR WARNING - FAULT CODE INDEX" file="https://drive.google.com/file/d/1uBaLsdG64lmK29Hv5P24KvfxJ2BG7A4F/preview" />
 </folder>
 <folder key="FIM52-11-00" title="52-11-00 - PASSENGER DOOR OPERATION">
-<doc key="FIM52-11-00-01" title="TASK 52-11-00-01 - PASSENGER DOOR OPERATION - FAULT ISOLATION" file="FIM52-11-00-01.pdf"/>
-<doc key="FIM52-11-00-01-02" title="TASK 52-11-00-01-02 - Passenger Door Operation - Fault Isolation" file="FIM52-11-00-01-02.pdf"/>
+<doc key="FIM52-11-00-01" title="TASK 52-11-00-01 - PASSENGER DOOR OPERATION - FAULT ISOLATION" file="https://drive.google.com/file/d/1bEXGS4i-PWlwnOzu4UAYE6M0Bqshe8u0/preview" />
+<doc key="FIM52-11-00-01-02" title="TASK 52-11-00-01-02 - Passenger Door Operation - Fault Isolation" file="https://drive.google.com/file/d/19Ey8-Yq2jRdWmJoRK9BEkuAuiQSBDYCu/preview" />
 </folder>
 <folder key="FIM52-11-02" title="52-11-02 - PASSENGER DOOR OPERATION - PASSENGER DOOR LATCH MECHANISM">
-<doc key="FIM52-11-02-01" title="TASK 52-11-02-01 - PASSENGER DOOR LATCH MECHANISM - FAULT ISOLATION" file="FIM52-11-02-01.pdf"/>
+<doc key="FIM52-11-02-01" title="TASK 52-11-02-01 - PASSENGER DOOR LATCH MECHANISM - FAULT ISOLATION" file="https://drive.google.com/file/d/1pOw9p79C3op3PcT8kwC0PILHz1-fGPLh/preview" />
 </folder>
 <folder key="FIM52-11-03" title="52-11-03 - PASSENGER DOOR OPERATION - PASSENGER DOOR HANDLES">
-<doc key="FIM52-11-03-01" title="TASK 52-11-03-01 - PASSENGER DOOR HANDLES - FAULT ISOLATION" file="FIM52-11-03-01.pdf"/>
+<doc key="FIM52-11-03-01" title="TASK 52-11-03-01 - PASSENGER DOOR HANDLES - FAULT ISOLATION" file="https://drive.google.com/file/d/1KKqnSDg03qlr3jMF9IxdBZ4QnlO1EW_Z/preview" />
 </folder>
 <folder key="FIM52-11-10" title="52-11-10 - PASSENGER DOOR OPERATION - PASSENGER DOOR SEAL">
-<doc key="FIM52-11-10-01" title="TASK 52-11-10-01 - PASSENGER DOOR SEAL - FAULT ISOLATION" file="FIM52-11-10-01.pdf"/>
+<doc key="FIM52-11-10-01" title="TASK 52-11-10-01 - PASSENGER DOOR SEAL - FAULT ISOLATION" file="https://drive.google.com/file/d/1QHIugETA8nbQHWGrqX0KWjuN5Wwj2ebG/preview" />
 </folder>
 <folder key="FIM52-21-00" title="52-21-00 - EXIT, OVERWING EMERGENCY - EXIT OVERWING EMERGENCY - FAULT ISOLATION">
-<doc key="FIM52-21-00-01" title="TASK 52-21-00-01 - EXIT OVERWING EMERGENCY-FAULT ISOLATION" file="FIM52-21-00-01.pdf"/>
+<doc key="FIM52-21-00-01" title="TASK 52-21-00-01 - EXIT OVERWING EMERGENCY-FAULT ISOLATION" file="https://drive.google.com/file/d/1h7o-2qdfYsw9bJQ05STObnD2cca-hKMR/preview" />
 </folder>
 <folder key="FIM52-31-00" title="52-31-00 - CARGO DOOR - CARGO DOOR - FAULT ISOLATION.">
-<doc key="FIM52-31-00-01" title="TASK 52-31-00-01 - CARGO DOOR-FAULT ISOLATION" file="FIM52-31-00-01.pdf"/>
+<doc key="FIM52-31-00-01" title="TASK 52-31-00-01 - CARGO DOOR-FAULT ISOLATION" file="https://drive.google.com/file/d/1MjBNxZgcWApjGKdKjWCkdpY_KqCCuHf2/preview" />
 </folder>
 <folder key="FIM52-41-00" title="52-41-00 - SERVICE DOOR - SERVICE DOOR - FAULT ISOLATION.">
-<doc key="FIM52-41-00-01" title="TASK 52-41-00-01 - SERVICE DOOR -FAULT ISOLATION" file="FIM52-41-00-01.pdf"/>
+<doc key="FIM52-41-00-01" title="TASK 52-41-00-01 - SERVICE DOOR -FAULT ISOLATION" file="https://drive.google.com/file/d/1JS9oQbxbVsR8fu-XTSw86n73J1XtE-oj/preview" />
 </folder>
 <folder key="FIM52-42-00" title="52-42-00 - MAIN AVIONICS COMPARTMENT DOOR - MAIN AVIONIC COMPARTMENT DOOR">
-<doc key="FIM52-42-00-01" title="TASK 52-42-00-01 - MAIN AVIONICS compartment DOOR-FAULT ISOLATION" file="FIM52-42-00-01.pdf"/>
+<doc key="FIM52-42-00-01" title="TASK 52-42-00-01 - MAIN AVIONICS compartment DOOR-FAULT ISOLATION" file="https://drive.google.com/file/d/1fFWErcohgMA1QKe1AuUDOzfDpp6LYR1P/preview" />
 </folder>
 <folder key="FIM52-70-00" title="52-70-00 - DOOR WARNING - PASSENGER/DOORS INDICATION">
-<doc key="FIM52-70-00-01" title="TASK 52-70-00-01 - PSEU BIT DISPLAY INFORMATION FOR DOORS - FAULT ISOLATION" file="FIM52-70-00-01.pdf"/>
+<doc key="FIM52-70-00-01" title="TASK 52-70-00-01 - PSEU BIT DISPLAY INFORMATION FOR DOORS - FAULT ISOLATION" file="https://drive.google.com/file/d/1jGQ_zS-6L7acHDAkabfmxAZClYsJirn3/preview" />
 </folder>
 <folder key="FIM52-70-04" title="52-70-04 - DOOR WARNING - PASSENGER DOOR INDICATION">
-<doc key="FIM52-70-04-01" title="TASK 52-70-04-01 - PASSENGER DOOR INDICATION SYSTEM - FAULT ISOLATION" file="FIM52-70-04-01.pdf"/>
-<doc key="FIM52-70-04-01-02" title="TASK 52-70-04-01-02 - Passenger-Door Warning System - Fault Isolation" file="FIM52-70-04-01-02.pdf"/>
+<doc key="FIM52-70-04-01" title="TASK 52-70-04-01 - PASSENGER DOOR INDICATION SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1McV6krzXoemy-uT5ESFI9VM4cSxSb93g/preview" />
+<doc key="FIM52-70-04-01-02" title="TASK 52-70-04-01-02 - Passenger-Door Warning System - Fault Isolation" file="https://drive.google.com/file/d/1BWlQyLNiTwjAjsHUVuQK_QQ8pmOCGCsM/preview" />
 </folder>
 </folder>
 <folder key="FIM71" title="CH 71 - POWER PLANT">
 <folder key="FIM71-FM" title="Front Matter">
-<doc key="CLEP-71" title="List of Effective Pages" file="CLEP-71.pdf"/>
-<doc key="CTOC-71" title="Table of Contents" file="CTOC-71.pdf"/>
+<doc key="CLEP-71" title="List of Effective Pages" file="https://drive.google.com/file/d/1NkmsKk56ljisXVbEb4JEJV6PzJqZcY-D/preview" />
+<doc key="CTOC-71" title="Table of Contents" file="https://drive.google.com/file/d/1T-ZNKd3AKu5pa54xohmNsGZTtH0vRqb8/preview" />
 </folder>
 <folder key="FIM71-99-01" title="71-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM71-99-01-01" title="TASK 71-99-01-01 - ENGINE - EICAS MESSAGES" file="FIM71-99-01-01.pdf"/>
+<doc key="FIM71-99-01-01" title="TASK 71-99-01-01 - ENGINE - EICAS MESSAGES" file="https://drive.google.com/file/d/1YN00UsDvzLb4OpUALPG0qmd8z2wRxlwn/preview" />
 </folder>
 <folder key="FIM71-99-02" title="71-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM71-99-02-01" title="TASK 71-99-02-01 - ENGINES - FAULT CODE DIAGRAMS" file="FIM71-99-02-01.pdf"/>
+<doc key="FIM71-99-02-01" title="TASK 71-99-02-01 - ENGINES - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/1U-IcGdAom1l7hSPtLjJhfaXpVW4c4KZv/preview" />
 </folder>
 <folder key="FIM71-99-03" title="71-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM71-99-03-01" title="TASK 71-99-03-01 - ENGINE - FAULT CODE INDEX" file="FIM71-99-03-01.pdf"/>
+<doc key="FIM71-99-03-01" title="TASK 71-99-03-01 - ENGINE - FAULT CODE INDEX" file="https://drive.google.com/file/d/1Ceu4hEL8U4xnv4Br5UrjpTBDhKi-T3WX/preview" />
 </folder>
 </folder>
 <folder key="FIM72" title="CH 72 - ENGINE GENERAL">
 <folder key="FIM72-FM" title="Front Matter">
-<doc key="CLEP-72" title="List of Effective Pages" file="CLEP-72.pdf"/>
-<doc key="CTOC-72" title="Table of Contents" file="CTOC-72.pdf"/>
+<doc key="CLEP-72" title="List of Effective Pages" file="https://drive.google.com/file/d/1i1zB_VLzRF6GPuwb7adaV0W4ITWdqnzK/preview" />
+<doc key="CTOC-72" title="Table of Contents" file="https://drive.google.com/file/d/1ylojD6wvcxlVSKeDIv0T8x0v9AzKGenk/preview" />
 </folder>
 <folder key="FIM72-00-01" title="72-00-01 - ENGINE GENERAL - ENGINE PERFORMANCE">
-<doc key="FIM72-00-01-01" title="TASK 72-00-01-01 - ENGINE PERFORMANCE - FAULT ISOLATION" file="FIM72-00-01-01.pdf"/>
+<doc key="FIM72-00-01-01" title="TASK 72-00-01-01 - ENGINE PERFORMANCE - FAULT ISOLATION" file="https://drive.google.com/file/d/169m3ga5_PFD1Q6e3GkPkL52Ods_jhQzU/preview" />
 </folder>
 </folder>
 <folder key="FIM73" title="CH 73 - ENGINE FUEL AND CONTROL">
 <folder key="FIM73-FM" title="Front Matter">
-<doc key="CLEP-73" title="List of Effective Pages" file="CLEP-73.pdf"/>
-<doc key="CTOC-73" title="Table of Contents" file="CTOC-73.pdf"/>
+<doc key="CLEP-73" title="List of Effective Pages" file="https://drive.google.com/file/d/1nBqIyA3KhQNLMyor3Wa7YPk-HngBHakl/preview" />
+<doc key="CTOC-73" title="Table of Contents" file="https://drive.google.com/file/d/1pc0EMbNitshfXbP_U7yAFMMwXgKjbcjl/preview" />
 </folder>
 <folder key="FIM73-99-01" title="73-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM73-99-01-01" title="TASK 73-99-01-01 - ENGINE FUEL CONTROL FAULTS" file="FIM73-99-01-01.pdf"/>
+<doc key="FIM73-99-01-01" title="TASK 73-99-01-01 - ENGINE FUEL CONTROL FAULTS" file="https://drive.google.com/file/d/1-rr2CJbFZ1NgHsuVxKz40VsGRUdNBzUH/preview" />
 </folder>
 <folder key="FIM73-99-02" title="73-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM73-99-02-01" title="TASK 73-99-02-01 - ENGINE FUEL CONTROL - FAULT CODE DIAGRAMS" file="FIM73-99-02-01.pdf"/>
+<doc key="FIM73-99-02-01" title="TASK 73-99-02-01 - ENGINE FUEL CONTROL - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/1uaHrBggkTJVU3eYjRygDa6DCGUWJJWCR/preview" />
 </folder>
 <folder key="FIM73-99-03" title="73-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM73-99-03-01" title="TASK 73-99-03-01 - ENGINE FUEL CONTROL - FAULT CODE INDEX" file="FIM73-99-03-01.pdf"/>
+<doc key="FIM73-99-03-01" title="TASK 73-99-03-01 - ENGINE FUEL CONTROL - FAULT CODE INDEX" file="https://drive.google.com/file/d/1q8YrkKqRYB3E0hKVV6FcoeH3RFN9ek6N/preview" />
 </folder>
 <folder key="FIM73-00-00" title="73-00-00 - ENGINE FUEL AND CONTROL">
-<doc key="FIM73-00-00-01" title="TASK 73-00-00-01 - ENGINE FUEL AND CONTROL - FAULT ISOLATION" file="FIM73-00-00-01.pdf"/>
+<doc key="FIM73-00-00-01" title="TASK 73-00-00-01 - ENGINE FUEL AND CONTROL - FAULT ISOLATION" file="https://drive.google.com/file/d/1oP7LzITghVETYFEWeAqDMmXDudm7FMXi/preview" />
 </folder>
 <folder key="FIM73-20-00" title="73-20-00 - FUEL CONTROL SYSTEM">
-<doc key="FIM73-20-00-01" title="TASK 73-20-00-01 - FUEL CONTROL SYSTEM - FAULT ISOLATION" file="FIM73-20-00-01.pdf"/>
+<doc key="FIM73-20-00-01" title="TASK 73-20-00-01 - FUEL CONTROL SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1caNXTAYb3ZascJMtFnuw6RVmIH0hae5g/preview" />
 </folder>
 <folder key="FIM73-20-13" title="73-20-13 - FUEL CONTROL SYSTEM - THROTTLE MISMATCH">
-<doc key="FIM73-20-13-01" title="TASK 73-20-13-01 - THROTTLE MISMATCH - FAULT ISOLATION" file="FIM73-20-13-01.pdf"/>
+<doc key="FIM73-20-13-01" title="TASK 73-20-13-01 - THROTTLE MISMATCH - FAULT ISOLATION" file="https://drive.google.com/file/d/1XImKdLzOaUuFEEuxv1UKiRLPHU7crIly/preview" />
 </folder>
 </folder>
 <folder key="FIM74" title="CH 74 - IGNITION">
 <folder key="FIM74-FM" title="Front Matter">
-<doc key="CLEP-74" title="List of Effective Pages" file="CLEP-74.pdf"/>
-<doc key="CTOC-74" title="Table of Contents" file="CTOC-74.pdf"/>
+<doc key="CLEP-74" title="List of Effective Pages" file="https://drive.google.com/file/d/1ekpVz3aqiYojZSVwxFgSy8n6PdejRy1u/preview" />
+<doc key="CTOC-74" title="Table of Contents" file="https://drive.google.com/file/d/19js4m2dsbwVYZAxSioNw5wvARTkKB09B/preview" />
 </folder>
 <folder key="FIM74-99-01" title="74-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM74-99-01-01" title="TASK 74-99-01-01 - IGNITION SYSTEM - EICAS MESSAGES" file="FIM74-99-01-01.pdf"/>
+<doc key="FIM74-99-01-01" title="TASK 74-99-01-01 - IGNITION SYSTEM - EICAS MESSAGES" file="https://drive.google.com/file/d/1nNnfJHYowgpuXHpHpJQfFXfrFv_cwgbH/preview" />
 </folder>
 <folder key="FIM74-99-02" title="74-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM74-99-02-01" title="TASK 74-99-02-01 - IGNITION - FAULT CODE DIAGRAMS" file="FIM74-99-02-01.pdf"/>
+<doc key="FIM74-99-02-01" title="TASK 74-99-02-01 - IGNITION - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/1ZZivFZpOi1csYxL4v3qs_3pL0mLrK3MM/preview" />
 </folder>
 <folder key="FIM74-99-03" title="74-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM74-99-03-01" title="TASK 74-99-03-01 - IGNITION SYSTEM - FAULT CODE INDEX" file="FIM74-99-03-01.pdf"/>
+<doc key="FIM74-99-03-01" title="TASK 74-99-03-01 - IGNITION SYSTEM - FAULT CODE INDEX" file="https://drive.google.com/file/d/14GHxu5v3rwiKLXCRBKYF4ZFjP33S5MrG/preview" />
 </folder>
 <folder key="FIM74-00-00" title="74-00-00 - IGNITION SYSTEM">
-<doc key="FIM74-00-00-01" title="TASK 74-00-00-01 - IGNITION SYSTEM - FAULT ISOLATION" file="FIM74-00-00-01.pdf"/>
+<doc key="FIM74-00-00-01" title="TASK 74-00-00-01 - IGNITION SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1i2jh5CQ1wbzSE9qOrO5yU7DOE6uEmB0R/preview" />
 </folder>
 <folder key="FIM74-10-00" title="74-10-00 - IGNITION POWER SUPPLY">
-<doc key="FIM74-10-00-01" title="TASK 74-10-00-01 - IGNITION POWER SUPPLY - FAULT ISOLATION" file="FIM74-10-00-01.pdf"/>
+<doc key="FIM74-10-00-01" title="TASK 74-10-00-01 - IGNITION POWER SUPPLY - FAULT ISOLATION" file="https://drive.google.com/file/d/1nY3uFDUv5wlqLrpW3ZO1I9u4FD3P2tCE/preview" />
 </folder>
 </folder>
 <folder key="FIM76" title="CH 76 - ENGINE CONTROLS">
 <folder key="FIM76-FM" title="Front Matter">
-<doc key="CLEP-76" title="List of Effective Pages" file="CLEP-76.pdf"/>
-<doc key="CTOC-76" title="Table of Contents" file="CTOC-76.pdf"/>
+<doc key="CLEP-76" title="List of Effective Pages" file="https://drive.google.com/file/d/16ILFvKwwhIL3BnAEA1dDv6_VMGIxKVBh/preview" />
+<doc key="CTOC-76" title="Table of Contents" file="https://drive.google.com/file/d/1GAht8KDWfEwxd3zA6vhWzvvz7jocqtww/preview" />
 </folder>
 <folder key="FIM76-99-01" title="76-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM76-99-01-01" title="TASK 76-99-01-01 - APR CONTROL SYSTEM - EICAS MESSAGES" file="FIM76-99-01-01.pdf"/>
+<doc key="FIM76-99-01-01" title="TASK 76-99-01-01 - APR CONTROL SYSTEM - EICAS MESSAGES" file="https://drive.google.com/file/d/1zMQ9zKxFHoTkhySUXPLKjYDSfuSMxo_l/preview" />
 </folder>
 <folder key="FIM76-99-02" title="76-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM76-99-02-01" title="TASK 76-99-02-01 - APR SYSTEM - FAULT CODE DIAGRAMS" file="FIM76-99-02-01.pdf"/>
+<doc key="FIM76-99-02-01" title="TASK 76-99-02-01 - APR SYSTEM - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/1d08CmXdsmQqnQ-A7lIWkW1nQNvW83HGf/preview" />
 </folder>
 <folder key="FIM76-99-03" title="76-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM76-99-03-01" title="TASK 76-99-03-01 - APR CONTROL SYSTEM - FAULT CODE INDEX" file="FIM76-99-03-01.pdf"/>
+<doc key="FIM76-99-03-01" title="TASK 76-99-03-01 - APR CONTROL SYSTEM - FAULT CODE INDEX" file="https://drive.google.com/file/d/16bYmaIiuiKCwRe_RHLW33Ii-OIxtMg3W/preview" />
 </folder>
 <folder key="FIM76-00-00" title="76-00-00 - ENGINE CONTROLS">
-<doc key="FIM76-00-00-01" title="TASK 76-00-00-01 - ENGINE CONTROLS - FAULT ISOLATION" file="FIM76-00-00-01.pdf"/>
+<doc key="FIM76-00-00-01" title="TASK 76-00-00-01 - ENGINE CONTROLS - FAULT ISOLATION" file="https://drive.google.com/file/d/1ccap5vbGlDeUAsA0rDc99nNUuaLRJFwR/preview" />
 </folder>
 <folder key="FIM76-10-00" title="76-10-00 - POWER CONTROL SYSTEM">
-<doc key="FIM76-10-00-01" title="TASK 76-10-00-01 - POWER CONTROL SYSTEM - FAULT ISOLATION" file="FIM76-10-00-01.pdf"/>
+<doc key="FIM76-10-00-01" title="TASK 76-10-00-01 - POWER CONTROL SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1ioeih0zZYOcBMff_CTubdjPVYkd9Osp4/preview" />
 </folder>
 </folder>
 <folder key="FIM77" title="CH 77 - ENGINE INDICATING">
 <folder key="FIM77-FM" title="Front Matter">
-<doc key="CLEP-77" title="List of Effective Pages" file="CLEP-77.pdf"/>
-<doc key="CTOC-77" title="Table of Contents" file="CTOC-77.pdf"/>
+<doc key="CLEP-77" title="List of Effective Pages" file="https://drive.google.com/file/d/1qSe6-nmUpiZu7Xwu-Y3JXk_V0v4jqAFD/preview" />
+<doc key="CTOC-77" title="Table of Contents" file="https://drive.google.com/file/d/1cfKHSyhWubM3H6HZ1sb2bDTY6TiMY7s5/preview" />
 </folder>
 <folder key="FIM77-99-01" title="77-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM77-99-01-01" title="TASK 77-99-01-01 - ENGINE INDICATING FAULTS" file="FIM77-99-01-01.pdf"/>
+<doc key="FIM77-99-01-01" title="TASK 77-99-01-01 - ENGINE INDICATING FAULTS" file="https://drive.google.com/file/d/1CMzaaq1vPfctftHZJ6PbiS7JJZw-6Ky6/preview" />
 </folder>
 <folder key="FIM77-99-02" title="77-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM77-99-02-01" title="TASK 77-99-02-01 - ENGINE INDICATING - FAULT CODE DIAGRAMS" file="FIM77-99-02-01.pdf"/>
+<doc key="FIM77-99-02-01" title="TASK 77-99-02-01 - ENGINE INDICATING - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/1NuCmdpjKwCh39wwxxl6DroQsjRNSBqyT/preview" />
 </folder>
 <folder key="FIM77-99-03" title="77-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM77-99-03-01" title="TASK 77-99-03-01 - ENGINE INDICATION - FAULT CODE INDEX" file="FIM77-99-03-01.pdf"/>
+<doc key="FIM77-99-03-01" title="TASK 77-99-03-01 - ENGINE INDICATION - FAULT CODE INDEX" file="https://drive.google.com/file/d/1hJBmoyC70H-K9NjVsQ5Ddc4eClM8l-af/preview" />
 </folder>
 <folder key="FIM77-00-00" title="77-00-00 - ENGINE INDICATING">
-<doc key="FIM77-00-00-01" title="TASK 77-00-00-01 - ENGINE INDICATING - FAULT ISOLATION" file="FIM77-00-00-01.pdf"/>
+<doc key="FIM77-00-00-01" title="TASK 77-00-00-01 - ENGINE INDICATING - FAULT ISOLATION" file="https://drive.google.com/file/d/1UjU2DmEqfjzzgxHxoNKpQ-OoxcdXY25d/preview" />
 </folder>
 <folder key="FIM77-10-00" title="77-10-00 - ENGINE INDICATION - POWER">
-<doc key="FIM77-10-00-01" title="TASK 77-10-00-01 - ENGINE INDICATION - FAULT ISOLATION" file="FIM77-10-00-01.pdf"/>
+<doc key="FIM77-10-00-01" title="TASK 77-10-00-01 - ENGINE INDICATION - FAULT ISOLATION" file="https://drive.google.com/file/d/1eJ6DDYMffw62OPIaeY3RmUBBfNvwNVut/preview" />
 </folder>
 </folder>
 <folder key="FIM78" title="CH 78 - EXHAUST">
 <folder key="FIM78-FM" title="Front Matter">
-<doc key="CLEP-78" title="List of Effective Pages" file="CLEP-78.pdf"/>
-<doc key="CTOC-78" title="Table of Contents" file="CTOC-78.pdf"/>
+<doc key="CLEP-78" title="List of Effective Pages" file="https://drive.google.com/file/d/11R1_UQv_XgTaBPbztRVstkA-fchr_sMI/preview" />
+<doc key="CTOC-78" title="Table of Contents" file="https://drive.google.com/file/d/1DqeHigFX_YX-19HnCv1OiU-AlLC8FUYG/preview" />
 </folder>
 <folder key="FIM78-99-01" title="78-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM78-99-01-01" title="TASK 78-99-01-01 - THRUST REVERSER - EICAS MESSAGES" file="FIM78-99-01-01.pdf"/>
+<doc key="FIM78-99-01-01" title="TASK 78-99-01-01 - THRUST REVERSER - EICAS MESSAGES" file="https://drive.google.com/file/d/1XuoPyUI0tauo6Z0FnT7TUyniLjUVbm4g/preview" />
 </folder>
 <folder key="FIM78-99-02" title="78-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM78-99-02-01" title="TASK 78-99-02-01 - THRUST REVERSER - FAULT CODE DIAGRAMS" file="FIM78-99-02-01.pdf"/>
+<doc key="FIM78-99-02-01" title="TASK 78-99-02-01 - THRUST REVERSER - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/1kCobXKrTxfZ01bTGT8XGq36MyeYrKtfN/preview" />
 </folder>
 <folder key="FIM78-99-03" title="78-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM78-99-03-01" title="TASK 78-99-03-01 - THRUST REVERSER - FAULT CODE INDEX" file="FIM78-99-03-01.pdf"/>
+<doc key="FIM78-99-03-01" title="TASK 78-99-03-01 - THRUST REVERSER - FAULT CODE INDEX" file="https://drive.google.com/file/d/1FNReDUxLGmdLJjYJKHdCUaMQz0Bckugl/preview" />
 </folder>
 <folder key="FIM78-99-04" title="78-99-04 - FAULT ISOLATION AND CODES - THRUST REVERSER- CONTROL LOGIC DIAGRAMS">
-<doc key="FIM78-99-04-01" title="TASK 78-99-04-01 - THRUST REVERSER - CONTROL LOGIC DIAGRAMS" file="FIM78-99-04-01.pdf"/>
+<doc key="FIM78-99-04-01" title="TASK 78-99-04-01 - THRUST REVERSER - CONTROL LOGIC DIAGRAMS" file="https://drive.google.com/file/d/1rcL6GdZXsN2F6rph96R5wz78PCOh8mnj/preview" />
 </folder>
 <folder key="FIM78-00-00" title="78-00-00 - EXHAUST">
-<doc key="FIM78-00-00-01" title="TASK 78-00-00-01 - EXHAUST - FAULT ISOLATION" file="FIM78-00-00-01.pdf"/>
+<doc key="FIM78-00-00-01" title="TASK 78-00-00-01 - EXHAUST - FAULT ISOLATION" file="https://drive.google.com/file/d/1allg90aQg1XuldyEvBGC839cJ-6DXchn/preview" />
 </folder>
 <folder key="FIM78-30-00" title="78-30-00 - THRUST REVERSER SYSTEM - THRUST REVERSER">
-<doc key="FIM78-30-00-01" title="TASK 78-30-00-01 - THRUST REVERSER SYSTEM - FAULT ISOLATION" file="FIM78-30-00-01.pdf"/>
+<doc key="FIM78-30-00-01" title="TASK 78-30-00-01 - THRUST REVERSER SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1mhbgbf9Tz8DEWETWfRLWvCIFidXhshzI/preview" />
 </folder>
 </folder>
 <folder key="FIM79" title="CH 79 - OIL">
 <folder key="FIM79-FM" title="Front Matter">
-<doc key="CLEP-79" title="List of Effective Pages" file="CLEP-79.pdf"/>
-<doc key="CTOC-79" title="Table of Contents" file="CTOC-79.pdf"/>
+<doc key="CLEP-79" title="List of Effective Pages" file="https://drive.google.com/file/d/1nIud18Karc99yjdzRauBBdg8rG6hKgXA/preview" />
+<doc key="CTOC-79" title="Table of Contents" file="https://drive.google.com/file/d/1lMMYaAuoGYEzt247zp1IjvopxenRLYix/preview" />
 </folder>
 <folder key="FIM79-99-01" title="79-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM79-99-01-01" title="TASK 79-99-01-01 - ENGINE OIL FAULTS" file="FIM79-99-01-01.pdf"/>
+<doc key="FIM79-99-01-01" title="TASK 79-99-01-01 - ENGINE OIL FAULTS" file="https://drive.google.com/file/d/1XHqsHwPJk4lZa_LykvQJ8_yOdh06AISP/preview" />
 </folder>
 <folder key="FIM79-99-02" title="79-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM79-99-02-01" title="TASK 79-99-02-01 - ENGINE OIL - FAULT CODE DIAGRAMS" file="FIM79-99-02-01.pdf"/>
+<doc key="FIM79-99-02-01" title="TASK 79-99-02-01 - ENGINE OIL - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/1oIov65Gfj90rykkpxGV9F262NgeyRJ13/preview" />
 </folder>
 <folder key="FIM79-99-03" title="79-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM79-99-03-01" title="TASK 79-99-03-01 - LUBRICATION SYSTEM - FAULT CODE INDEX" file="FIM79-99-03-01.pdf"/>
+<doc key="FIM79-99-03-01" title="TASK 79-99-03-01 - LUBRICATION SYSTEM - FAULT CODE INDEX" file="https://drive.google.com/file/d/1FDb2Gl2UkHBDxwvV5m9d8-YVLKQFXgC_/preview" />
 </folder>
 <folder key="FIM79-00-00" title="79-00-00 - OIL SYSTEM">
-<doc key="FIM79-00-00-01" title="TASK 79-00-00-01 - OIL SYSTEM - FAULT ISOLATION" file="FIM79-00-00-01.pdf"/>
+<doc key="FIM79-00-00-01" title="TASK 79-00-00-01 - OIL SYSTEM - FAULT ISOLATION" file="https://drive.google.com/file/d/1O7E8uvJlFrLnmbLd7aPACV8aUcT1O3a8/preview" />
 </folder>
 <folder key="FIM79-10-00" title="79-10-00 - ENGINE OIL STORAGE">
-<doc key="FIM79-10-00-01" title="TASK 79-10-00-01 - ENGINE OIL STORAGE - FAULT ISOLATION" file="FIM79-10-00-01.pdf"/>
+<doc key="FIM79-10-00-01" title="TASK 79-10-00-01 - ENGINE OIL STORAGE - FAULT ISOLATION" file="https://drive.google.com/file/d/1xcLdIuPKs7s4D2Lb8seog8trWpPOG7UO/preview" />
 </folder>
 <folder key="FIM79-20-01" title="79-20-01 - OIL DISTRIBUTION SYSTEM - FLIGHT COMPARTMENT OR CABIN ODORS">
-<doc key="FIM79-20-01-01" title="TASK 79-20-01-01 - FLIGHT COMPARTMENT OR CABIN ODORS AND/OR FUMES- FAULT ISOLATION" file="FIM79-20-01-01.pdf"/>
+<doc key="FIM79-20-01-01" title="TASK 79-20-01-01 - FLIGHT COMPARTMENT OR CABIN ODORS AND/OR FUMES- FAULT ISOLATION" file="https://drive.google.com/file/d/17H6I_yB_6SI1C6q316bNZxpsEe8yMJJj/preview" />
 </folder>
 <folder key="FIM79-20-02" title="79-20-02 - OIL DISTRIBUTION SYSTEM - OIL LEVEL SHOWS LOW AFTER EXTENDED ENGINE SHUTDOWN">
-<doc key="FIM79-20-02-01" title="TASK 79-20-02-01 - OIL LEVEL SHOWS LOW AFTER EXTENDED ENGINE SHUTDOWN - FAULT ISOLATION" file="FIM79-20-02-01.pdf"/>
+<doc key="FIM79-20-02-01" title="TASK 79-20-02-01 - OIL LEVEL SHOWS LOW AFTER EXTENDED ENGINE SHUTDOWN - FAULT ISOLATION" file="https://drive.google.com/file/d/12LrC0rwM7nT3gDkmAyPUboGqc2PcqNw8/preview" />
 </folder>
 <folder key="FIM79-20-03" title="79-20-03 - OIL DISTRIBUTION SYSTEM - OIL TANK HAS TOO MUCH OIL">
-<doc key="FIM79-20-03-01" title="TASK 79-20-03-01 - THE ENGINE OIL TANK HAS TOO MUCH OIL - FAULT ISOLATION" file="FIM79-20-03-01.pdf"/>
+<doc key="FIM79-20-03-01" title="TASK 79-20-03-01 - THE ENGINE OIL TANK HAS TOO MUCH OIL - FAULT ISOLATION" file="https://drive.google.com/file/d/1Z6aeZPaK4GXnkdNuxpvlFu9OadRuH3HH/preview" />
 </folder>
 <folder key="FIM79-20-04" title="79-20-04 - OIL DISTRIBUTION SYSTEM - HIGH OIL CONSUMPTION">
-<doc key="FIM79-20-04-01" title="TASK 79-20-04-01 - HIGH OIL CONSUMPTION - FAULT ISOLATION" file="FIM79-20-04-01.pdf"/>
+<doc key="FIM79-20-04-01" title="TASK 79-20-04-01 - HIGH OIL CONSUMPTION - FAULT ISOLATION" file="https://drive.google.com/file/d/1xlawAv3vZhXac5Hqtysw58UAuNgiWGpQ/preview" />
 </folder>
 <folder key="FIM79-20-05" title="79-20-05 - OIL DISTRIBUTION SYSTEM - HIGH OIL TEMPERATURE OR OIL TEMPERATURE FLUCTUATIONS">
-<doc key="FIM79-20-05-01" title="TASK 79-20-05-01 - HIGH OIL TEMPERATURE OR OIL TEMPERATURE FLUCTUATIONS - FAULT ISOLATION" file="FIM79-20-05-01.pdf"/>
+<doc key="FIM79-20-05-01" title="TASK 79-20-05-01 - HIGH OIL TEMPERATURE OR OIL TEMPERATURE FLUCTUATIONS - FAULT ISOLATION" file="https://drive.google.com/file/d/1ghTPWooIp7nR6oeVTP8U-w8hXvKMEfX4/preview" />
 </folder>
 <folder key="FIM79-20-06" title="79-20-06 - OIL DISTRIBUTION SYSTEM - NO OR LOW ENGINE OIL PRESSURE">
-<doc key="FIM79-20-06-01" title="TASK 79-20-06-01 - NO OR LOW ENGINE OIL PRESSURE - FAULT ISOLATION" file="FIM79-20-06-01.pdf"/>
+<doc key="FIM79-20-06-01" title="TASK 79-20-06-01 - NO OR LOW ENGINE OIL PRESSURE - FAULT ISOLATION" file="https://drive.google.com/file/d/1PnzO7CXasbJCG-c3lGxEOcgM504Nbqjy/preview" />
 </folder>
 <folder key="FIM79-20-07" title="79-20-07 - OIL DISTRIBUTION SYSTEM - LOW ENGINE OIL PRESSURE WITH FLUCTUATIONS">
-<doc key="FIM79-20-07-01" title="TASK 79-20-07-01 - LOW ENGINE OIL PRESSURE WITH FLUCTUATIONS - FAULT ISOLATION" file="FIM79-20-07-01.pdf"/>
+<doc key="FIM79-20-07-01" title="TASK 79-20-07-01 - LOW ENGINE OIL PRESSURE WITH FLUCTUATIONS - FAULT ISOLATION" file="https://drive.google.com/file/d/1QFnFVgeFwxBD4habgC74MjZ3X_clm41O/preview" />
 </folder>
 <folder key="FIM79-20-08" title="79-20-08 - OIL DISTRIBUTION SYSTEM - HIGH OIL PRESSURE">
-<doc key="FIM79-20-08-01" title="TASK 79-20-08-01 - HIGH OIL PRESSURE - FAULT ISOLATION" file="FIM79-20-08-01.pdf"/>
+<doc key="FIM79-20-08-01" title="TASK 79-20-08-01 - HIGH OIL PRESSURE - FAULT ISOLATION" file="https://drive.google.com/file/d/1Kbt5lOC-IQBKCytpmELbrzD24U5LaIJc/preview" />
 </folder>
 <folder key="FIM79-20-09" title="79-20-09 - OIL DISTRIBUTION SYSTEM - OIL FILTER BYPASS INDICATOR SHOWS BLACK AND WHITE">
-<doc key="FIM79-20-09-01" title="TASK 79-20-09-01 - OIL FILTER BYPASS-INDICATOR SHOWS FAULT - FAULT ISOLATION" file="FIM79-20-09-01.pdf"/>
+<doc key="FIM79-20-09-01" title="TASK 79-20-09-01 - OIL FILTER BYPASS-INDICATOR SHOWS FAULT - FAULT ISOLATION" file="https://drive.google.com/file/d/1kRr326Q2omL9fKpXVCYCwp6vaVHTfLiT/preview" />
 </folder>
 <folder key="FIM79-20-10" title="79-20-10 - OIL DISTRIBUTION SYSTEM - CHIP DETECTOR INDICATOR SHOWS BLACK AND WHITE">
-<doc key="FIM79-20-10-01" title="TASK 79-20-10-01 - CHIP DETECTOR INDICATOR SHOWS FAULT - FAULT ISOLATION" file="FIM79-20-10-01.pdf"/>
+<doc key="FIM79-20-10-01" title="TASK 79-20-10-01 - CHIP DETECTOR INDICATOR SHOWS FAULT - FAULT ISOLATION" file="https://drive.google.com/file/d/1S6rd4pUUB2IL81O_qoDF5AonMujDniec/preview" />
 </folder>
 </folder>
 <folder key="FIM80" title="CH 80 - STARTING">
 <folder key="FIM80-FM" title="Front Matter">
-<doc key="CLEP-80" title="List of Effective Pages" file="CLEP-80.pdf"/>
-<doc key="CTOC-80" title="Table of Contents" file="CTOC-80.pdf"/>
+<doc key="CLEP-80" title="List of Effective Pages" file="https://drive.google.com/file/d/18M0PN_U4otOpshhKXwM3riFcQNIx0Bnk/preview" />
+<doc key="CTOC-80" title="Table of Contents" file="https://drive.google.com/file/d/1eV4llpQqKvRd1p4f9mYnVnKF7Mf0AvRV/preview" />
 </folder>
 <folder key="FIM80-99-01" title="80-99-01 - FAULT ISOLATION AND CODES - FAULT ISOLATION CONTENTS">
-<doc key="FIM80-99-01-01" title="TASK 80-99-01-01 - START SYSTEM - EICAS MESSAGES" file="FIM80-99-01-01.pdf"/>
+<doc key="FIM80-99-01-01" title="TASK 80-99-01-01 - START SYSTEM - EICAS MESSAGES" file="https://drive.google.com/file/d/11Y0F6GnQy2GEhMWZxZOq6U6hZKLlCLaF/preview" />
 </folder>
 <folder key="FIM80-99-02" title="80-99-02 - FAULT ISOLATION AND CODES - FAULT CODE DIAGRAM">
-<doc key="FIM80-99-02-01" title="TASK 80-99-02-01 - ENGINE START - FAULT CODE DIAGRAMS" file="FIM80-99-02-01.pdf"/>
+<doc key="FIM80-99-02-01" title="TASK 80-99-02-01 - ENGINE START - FAULT CODE DIAGRAMS" file="https://drive.google.com/file/d/1nWBfeI5baCkC1vAR41tpM6r66SbxxJ_B/preview" />
 </folder>
 <folder key="FIM80-99-03" title="80-99-03 - FAULT ISOLATION AND CODES - FAULT CODE INDEX">
-<doc key="FIM80-99-03-01" title="TASK 80-99-03-01 - START SYSTEM - FAULT CODE INDEX" file="FIM80-99-03-01.pdf"/>
+<doc key="FIM80-99-03-01" title="TASK 80-99-03-01 - START SYSTEM - FAULT CODE INDEX" file="https://drive.google.com/file/d/1BAb7JvhLo3YSELl26m18lTehlOPxogfH/preview" />
 </folder>
 <folder key="FIM80-00-00" title="80-00-00 - STARTING">
-<doc key="FIM80-00-00-01" title="TASK 80-00-00-01 - STARTING - FAULT ISOLATION" file="FIM80-00-00-01.pdf"/>
+<doc key="FIM80-00-00-01" title="TASK 80-00-00-01 - STARTING - FAULT ISOLATION" file="https://drive.google.com/file/d/1A_ipglrQmBPDcYAh11TMGKt5NRscot4z/preview" />
 </folder>
 <folder key="FIM80-10-00" title="80-10-00 - CRANKING">
-<doc key="FIM80-10-00-01" title="TASK 80-10-00-01 - CRANKING - FAULT ISOLATION" file="FIM80-10-00-01.pdf"/>
+<doc key="FIM80-10-00-01" title="TASK 80-10-00-01 - CRANKING - FAULT ISOLATION" file="https://drive.google.com/file/d/1gkv6p0a5Sqs5nkChQ32C7CHwGubN20Py/preview" />
 </folder>
 <folder key="FIM80-10-01" title="80-10-01 - CRANKING - HUNG START OR SLOW START">
-<doc key="FIM80-10-01-01" title="TASK 80-10-01-01 - HUNG START OR SLOW START - FAULT ISOLATION" file="FIM80-10-01-01.pdf"/>
-<doc key="FIM80-10-01-02" title="TASK 80-10-01-02 - HUNG START OR SLOW START - FAULT ISOLATION" file="FIM80-10-01-02.pdf"/>
+<doc key="FIM80-10-01-01" title="TASK 80-10-01-01 - HUNG START OR SLOW START - FAULT ISOLATION" file="https://drive.google.com/file/d/1qdrGqwBMQTajHO74PJM0EUjkw6ziglrT/preview" />
+<doc key="FIM80-10-01-02" title="TASK 80-10-01-02 - HUNG START OR SLOW START - FAULT ISOLATION" file="https://drive.google.com/file/d/1sQKJJkhjiQ8fQzil2TeoGlDJeGViIrYn/preview" />
 </folder>
 <folder key="FIM80-10-03" title="80-10-03 - CRANKING - HOT START">
-<doc key="FIM80-10-03-01" title="TASK 80-10-03-01 - HOT START - FAULT ISOLATION" file="FIM80-10-03-01.pdf"/>
-<doc key="FIM80-10-03-02" title="TASK 80-10-03-02 - HOT START - FAULT ISOLATION" file="FIM80-10-03-02.pdf"/>
+<doc key="FIM80-10-03-01" title="TASK 80-10-03-01 - HOT START - FAULT ISOLATION" file="https://drive.google.com/file/d/1tJwK2ORnp6Vvi_VUyVEAkkCO7fhtSQN0/preview" />
+<doc key="FIM80-10-03-02" title="TASK 80-10-03-02 - HOT START - FAULT ISOLATION" file="https://drive.google.com/file/d/1sywGwgncIX3tebqZBgeRnTH6CXO3psd1/preview" />
 </folder>
 </folder>
 </toc>`,
